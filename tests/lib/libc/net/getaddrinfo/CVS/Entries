@@ -1,0 +1,17 @@
+/README/1.1/Wed Jan 12 02:58:40 2011//
+/basics_v4.exp/1.1/Wed Jan 12 02:58:40 2011//
+/basics_v4v6.exp/1.1/Wed Jan 12 02:58:40 2011//
+/no_host_v4.exp/1.1/Wed Jan 12 02:58:40 2011//
+/no_host_v4v6.exp/1.1/Wed Jan 12 02:58:40 2011//
+/scoped.exp/1.1/Wed Jan 12 02:58:41 2011//
+/sock_raw_v4.exp/1.1/Wed Jan 12 02:58:41 2011//
+/sock_raw_v4v6.exp/1.1/Wed Jan 12 02:58:41 2011//
+/spec_fam_v4.exp/1.1/Wed Jan 12 02:58:41 2011//
+/spec_fam_v4v6.exp/1.1/Wed Jan 12 02:58:41 2011//
+/unsup_fam.exp/1.1/Wed Jan 12 02:58:41 2011//
+/Makefile/1.2/Fri Aug 26 03:01:17 2016//
+/no_serv_v4.exp/1.2/Mon Dec 17 03:01:31 2018//
+/no_serv_v4v6.exp/1.2/Wed Dec 19 03:01:27 2018//
+/t_getaddrinfo.sh/1.3/Fri Jan 11 03:01:24 2019//
+/h_gai.c/1.2/Mon Feb  4 03:01:33 2019//
+D

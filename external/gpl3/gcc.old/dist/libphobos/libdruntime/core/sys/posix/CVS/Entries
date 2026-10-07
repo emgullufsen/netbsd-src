@@ -1,0 +1,35 @@
+/aio.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/config.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/dirent.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/dlfcn.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/fcntl.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/grp.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/iconv.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/inttypes.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/libgen.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/locale.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/mqueue.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/netdb.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/poll.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/pthread.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/pwd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/sched.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/semaphore.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/setjmp.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/signal.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/spawn.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/stdio.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/stdlib.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/string.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/strings.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/syslog.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/termios.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/time.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/ucontext.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/unistd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/utime.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+D/arpa////
+D/net////
+D/netinet////
+D/stdc////
+D/sys////

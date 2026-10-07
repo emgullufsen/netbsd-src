@@ -1,0 +1,27 @@
+/chan.go/1.5/Thu Oct 13 00:55:32 2016//
+/handcall.go/1.5/Thu Oct 13 00:55:32 2016//
+/integers.go/1.5/Thu Oct 13 00:55:32 2016//
+/methods.go/1.5/Thu Oct 13 00:55:32 2016//
+/package1.go/1.5/Thu Oct 13 00:55:32 2016//
+/package2.go/1.5/Thu Oct 13 00:55:32 2016//
+/strings.go/1.5/Thu Oct 13 00:55:32 2016//
+/types.go/1.5/Thu Oct 13 00:55:32 2016//
+/unsafe.go/1.5/Thu Oct 13 00:55:32 2016//
+/global-local-var-shadow.go/1.1.1.1/Tue Mar 21 16:40:16 2023//
+/hello.go/1.6/Wed Mar 22 03:01:46 2023//
+/basic-types.exp/1.11/Thu Aug 28 03:02:00 2025//
+/chan.exp/1.11/Thu Aug 28 03:02:00 2025//
+/global-local-var-shadow.exp/1.1.1.3/Thu Aug 28 03:02:00 2025//
+/handcall.exp/1.11/Thu Aug 28 03:02:00 2025//
+/hello.exp/1.11/Thu Aug 28 03:02:00 2025//
+/max-depth.exp/1.1.1.3/Thu Aug 28 03:02:00 2025//
+/max-depth.go/1.1.1.3/Thu Aug 28 03:02:00 2025//
+/methods.exp/1.11/Thu Aug 28 03:02:00 2025//
+/no-package.exp/1.1.1.1/Wed Aug 27 14:47:55 2025//
+/package.exp/1.11/Thu Aug 28 03:02:00 2025//
+/print.exp/1.11/Thu Aug 28 03:02:00 2025//
+/strings.exp/1.11/Thu Aug 28 03:02:00 2025//
+/types.exp/1.11/Thu Aug 28 03:02:00 2025//
+/unsafe.exp/1.11/Thu Aug 28 03:02:00 2025//
+/integers.exp/1.12/Sat Mar 14 03:01:42 2026//
+D

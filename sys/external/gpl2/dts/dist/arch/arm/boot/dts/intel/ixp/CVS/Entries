@@ -1,0 +1,25 @@
+/Makefile/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-adi-coyote.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-arcom-vulcan.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-dlink-dsm-g600.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-freecom-fsg-3.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-gateway-7001.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-gateworks-gw2348.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-goramo-multilink.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-iomega-nas100d.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-ixdp425.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-ixdpg425.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-linksys-nslu2.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-linksys-wrv54g.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-netgear-wg302v1.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-usrobotics-usr8200.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x-welltech-epbx100.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp42x.dtsi/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp43x-gateworks-gw2358.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp43x-kixrp435.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp43x.dtsi/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp45x-ixp46x.dtsi/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp46x-ixdp465.dts/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp4xx-reference-design.dtsi/1.1.1.1/Sun Jan 18 05:22:19 2026//
+/intel-ixp4xx.dtsi/1.1.1.1/Sun Jan 18 05:22:20 2026//
+D

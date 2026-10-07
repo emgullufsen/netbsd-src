@@ -1,0 +1,8 @@
+A D/dnscrypt_queries.tdir////
+A D/dnscrypt_queries_chacha.tdir////
+A D/edns_lame.tdir////
+A D/remote-threaded.tdir////
+R D/remote-threaded.tdir////
+R D/edns_lame.tdir////
+R D/dnscrypt_queries_chacha.tdir////
+R D/dnscrypt_queries.tdir////

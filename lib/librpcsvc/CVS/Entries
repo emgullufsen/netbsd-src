@@ -1,0 +1,20 @@
+/bootparam_prot.x/1.7/Thu Jul  1 22:52:34 2004//
+/klm_prot.x/1.6/Thu Jul  1 22:52:34 2004//
+/nlm_prot.x/1.7/Thu Jul  1 22:52:34 2004//
+/rex.x/1.6/Thu Jul  1 22:52:34 2004//
+/rquota.x/1.6/Thu Jul  1 22:52:34 2004//
+/rstat.x/1.5/Thu Jul  1 22:52:34 2004//
+/rusers.x/1.5/Thu Jul  1 22:52:34 2004//
+/rwall.x/1.7/Thu Jul  1 22:52:34 2004//
+/shlib_version/1.2/Sun Jan 11 03:07:49 2009//
+/sm_inter.x/1.6/Thu Jul  1 22:52:34 2004//
+/spray.x/1.5/Thu Jul  1 22:52:34 2004//
+/yp.x/1.5/Thu Jul  1 22:52:34 2004//
+/yppasswd.x/1.6/Thu Jul  1 22:52:34 2004//
+/mount.x/1.8/Fri Oct 22 03:01:50 2021//
+/nfs_prot.x/1.8/Mon Nov  8 03:01:43 2021//
+/rnusers.x/1.16/Sun Jan  2 03:01:50 2022//
+/Makefile/1.42/Tue Nov 26 03:01:12 2024//
+/rpcsvc.common.expsym/1.2/Mon Nov 25 14:50:11 2024//
+/rpcsvc.yp.expsym/1.2/Mon Nov 25 14:50:11 2024//
+D

@@ -1,0 +1,20 @@
+/spi_io.h/1.1/Sat Feb 23 10:43:25 2019//
+/Makefile/1.2/Sun Sep 14 03:01:50 2025//
+/bmx280thpspi.c/1.7/Sun Sep 14 03:01:50 2025//
+/m25p.c/1.24/Sun Sep 14 03:01:50 2025//
+/mcp23xxxgpio_spi.c/1.8/Sun Sep 14 03:01:50 2025//
+/mcp3k.c/1.10/Sun Sep 14 03:01:50 2025//
+/mcp48x1.c/1.7/Sun Sep 14 03:01:50 2025//
+/oj6sh.c/1.14/Sun Sep 14 03:01:51 2025//
+/scmdspi.c/1.7/Sun Sep 14 03:01:51 2025//
+/spiflash.c/1.28/Sun Sep 14 03:01:51 2025//
+/spiflash.h/1.5/Sun Sep 14 03:01:51 2025//
+/ssdfb_spi.c/1.18/Sun Sep 14 03:01:51 2025//
+/tmp121.c/1.12/Sun Sep 14 03:01:51 2025//
+/spi_calls/1.2/Mon Sep 15 03:01:27 2025//
+/spi_calls.h/1.2/Mon Sep 15 03:01:27 2025//
+/files.spi/1.13/Sat Oct 25 03:01:29 2025//
+/sc16is7xxspi.c/1.3/Tue Dec  2 03:01:49 2025//
+/spi.c/1.42/Sun Jul 19 03:01:50 2026//
+/spivar.h/1.27/Sun Jul 19 03:01:50 2026//
+D

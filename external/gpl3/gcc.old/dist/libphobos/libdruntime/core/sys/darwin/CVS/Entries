@@ -1,0 +1,13 @@
+/config.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/crt_externs.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/dlfcn.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/err.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/execinfo.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/fcntl.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/ifaddrs.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/pthread.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/stdlib.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/string.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+D/mach////
+D/netinet////
+D/sys////

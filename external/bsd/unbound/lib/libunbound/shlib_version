@@ -1,0 +1,4 @@
+#	$NetBSD: shlib_version,v 1.10 2026/09/17 14:28:49 christos Exp $
+#
+major=11
+minor=2

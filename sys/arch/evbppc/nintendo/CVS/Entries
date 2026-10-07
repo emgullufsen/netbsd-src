@@ -1,0 +1,11 @@
+/autoconf.c/1.1/Fri Jan  9 22:54:28 2026//
+/cpu.c/1.1/Fri Jan  9 22:54:28 2026//
+/ipi_latte.c/1.1/Fri Jan  9 22:54:28 2026//
+/ipi_latte.h/1.1/Fri Jan  9 22:54:28 2026//
+/locore.S/1.1/Fri Jan  9 22:54:28 2026//
+/pic_pi.c/1.1/Fri Jan  9 22:54:29 2026//
+/pic_pi.h/1.1/Fri Jan  9 22:54:29 2026//
+D/dev////
+/mmuinit.S/1.2/Sun Jan 11 03:01:42 2026//
+/mainbus.c/1.2/Mon Feb  2 03:01:48 2026//
+/machdep.c/1.6/Wed Feb 25 03:01:44 2026//

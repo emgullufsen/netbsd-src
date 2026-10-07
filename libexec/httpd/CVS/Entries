@@ -1,0 +1,22 @@
+D/debug////
+D/small////
+D/testsuite////
+D/libbozohttpd////
+D/lua////
+/netbsd_queue.h/1.1/Thu Jul 11 08:24:47 2013//
+/Makefile.boot/1.9/Sun Jan 17 03:01:47 2021//
+/printenv.lua/1.5/Mon Mar  1 03:01:45 2021//
+/content-bozo.c/1.22/Thu Jun  8 03:01:36 2023//
+/main.c/1.31/Thu Jun  8 03:01:36 2023//
+/dir-index-bozo.c/1.37/Sat Apr 27 03:01:45 2024//
+/Makefile/1.37/Sun Oct 19 03:01:53 2025//
+/lua-bozo.c/1.16/Thu Apr 23 03:01:42 2026//
+/auth-bozo.c/1.29/Fri Apr 24 03:01:33 2026//
+/bozohttpd.h/1.74/Mon May  4 03:01:41 2026//
+/daemon-bozo.c/1.23/Mon May  4 03:01:41 2026//
+/ssl-bozo.c/1.37/Mon May  4 03:01:41 2026//
+/tilde-luzah-bozo.c/1.17/Thu May  7 03:01:40 2026//
+/CHANGES/1.58/Mon May 11 03:01:39 2026//
+/bozohttpd.c/1.154/Mon May 11 03:01:39 2026//
+/bozohttpd.8/1.103/Wed Oct  7 20:54:55 2026//
+/cgi-bozo.c/1.59/Wed Oct  7 20:54:55 2026//

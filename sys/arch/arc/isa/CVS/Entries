@@ -1,0 +1,15 @@
+/isabrvar.h/1.6/Sat Jul  5 08:46:25 2008//
+/isadmareg.h/1.2/Sun Jan 23 21:01:59 2000//
+/mcclock_isavar.h/1.2/Mon Apr 28 20:23:13 2008//
+/spkrreg.h/1.2/Sun Jan 23 21:01:59 2000//
+/timer_isavar.h/1.2/Mon Apr 28 20:23:13 2008//
+/pccons_isavar.h/1.4/Mon Mar  7 04:58:43 2011//
+/mcclock_isa.c/1.15/Sat Jul  2 03:02:35 2011//
+/pccons_isa.c/1.12/Sat Jul  2 03:02:35 2011//
+/timer_isa.c/1.14/Sat Jul  2 03:02:35 2011//
+/isadma_bounce.c/1.19/Sun Jan 23 03:01:48 2022//
+/opms_isa.c/1.13/Thu Aug 31 03:01:37 2023//
+/isadma.c/1.13/Thu Dec 21 03:01:29 2023//
+/isapnp_machdep.c/1.10/Thu Dec 21 03:01:29 2023//
+/isabus.c/1.55/Sat Aug 15 03:01:57 2026//
+D

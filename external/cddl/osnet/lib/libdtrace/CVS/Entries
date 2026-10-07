@@ -1,0 +1,14 @@
+/shlib_version/1.2/Fri Sep 25 03:02:00 2015//
+/libproc_compat.h/1.2/Tue May 29 03:00:48 2018//
+/net.d/1.3/Tue May 29 03:00:48 2018//
+/nfs.d/1.3/Tue May 29 03:00:48 2018//
+/sched.d/1.3/Tue May 29 03:00:48 2018//
+/signal.d/1.3/Tue May 29 03:00:48 2018//
+/unistd.d/1.3/Tue May 29 03:00:48 2018//
+/errno.d/1.4/Mon Mar  9 03:01:08 2020//
+/make-errno-d.awk/1.1/Sun Mar  8 22:11:48 2020//
+/dtrace.common.expsym/1.1/Sat Nov 23 03:20:41 2024//
+/dtrace.x86.expsym/1.1/Sat Nov 23 03:20:41 2024//
+/Makefile/1.37/Wed Aug 26 03:01:20 2026//
+/psinfo.d/1.7/Wed Aug 26 03:01:20 2026//
+D

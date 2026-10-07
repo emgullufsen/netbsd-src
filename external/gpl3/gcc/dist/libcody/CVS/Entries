@@ -1,0 +1,22 @@
+/CMakeLists.txt/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/CODING.md/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/CONTRIB.md/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/LICENSE/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/README.md/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/buffer.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/config.h.in/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/config.m4/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/fatal.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/internal.hh/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/netclient.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/netserver.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/packet.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+/resolver.cc/1.1.1.1/Sun Jul 30 05:21:30 2023//
+D/cmake////
+/Makefile.in/1.1.1.2/Sun Sep 14 03:01:12 2025//
+/configure/1.1.1.2/Sun Sep 14 03:01:12 2025//
+/configure.ac/1.1.1.2/Sun Sep 14 03:01:12 2025//
+/ChangeLog/1.1.1.5/Sun Sep 27 03:01:29 2026//
+/client.cc/1.1.1.2/Sun Sep 27 03:01:29 2026//
+/cody.hh/1.1.1.2/Sun Sep 27 03:01:29 2026//
+/server.cc/1.1.1.2/Sun Sep 27 03:01:29 2026//

@@ -1,0 +1,25 @@
+/acfileio.c/1.1.1.18/Mon May  4 03:01:44 2026//
+/acgetline.c/1.1.1.18/Mon May  4 03:01:44 2026//
+/adfile.c/1.1.1.20/Mon May  4 03:01:44 2026//
+/adisasm.c/1.1.1.25/Mon May  4 03:01:44 2026//
+/adwalk.c/1.1.1.22/Mon May  4 03:01:44 2026//
+/ahids.c/1.1.1.17/Mon May  4 03:01:44 2026//
+/ahpredef.c/1.1.1.20/Mon May  4 03:01:44 2026//
+/ahtable.c/1.1.1.22/Mon May  4 03:01:44 2026//
+/ahuuids.c/1.1.1.18/Mon May  4 03:01:44 2026//
+/cmfsize.c/1.1.1.15/Mon May  4 03:01:44 2026//
+/dmextern.c/1.1.1.23/Mon May  4 03:01:44 2026//
+/dmrestag.c/1.1.1.22/Mon May  4 03:01:44 2026//
+/dmswitch.c/1.1.1.12/Mon May  4 03:01:44 2026//
+/dmtable.c/1.1.1.29/Mon May  4 03:01:44 2026//
+/dmtables.c/1.13/Mon May  4 03:01:44 2026//
+/dmtbdump.c/1.21/Mon May  4 03:01:44 2026//
+/dmtbdump1.c/1.1.1.15/Mon May  4 03:01:44 2026//
+/dmtbdump2.c/1.1.1.19/Mon May  4 03:01:44 2026//
+/dmtbdump3.c/1.1.1.15/Mon May  4 03:01:44 2026//
+/dmtbinfo.c/1.26/Mon May  4 03:01:44 2026//
+/dmtbinfo1.c/1.1.1.15/Mon May  4 03:01:44 2026//
+/dmtbinfo2.c/1.1.1.17/Mon May  4 03:01:44 2026//
+/dmtbinfo3.c/1.1.1.16/Mon May  4 03:01:44 2026//
+/getopt.c/1.1.1.19/Mon May  4 03:01:44 2026//
+D

@@ -1,0 +1,14 @@
+/clock.c/1.6/Sat Jan 12 09:54:33 2008//
+/clockreg.h/1.3/Sun Dec 11 12:18:19 2005//
+/oc_cksum.s/1.2/Thu Nov 30 22:26:27 2000//
+/version/1.3/Mon Jan  3 03:22:36 2011//
+/start.s/1.8/Wed Feb  2 03:03:47 2011//
+/console.c/1.7/Thu Feb  3 03:02:31 2011//
+/etherfun.h/1.5/Thu Feb  3 03:02:31 2011//
+/sboot.c/1.7/Thu Feb  3 03:02:31 2011//
+/sboot.h/1.7/Thu Feb  3 03:02:31 2011//
+/Makefile/1.15/Sat Nov 22 03:41:31 2014//
+/etherfun.c/1.14/Sun Aug 10 03:01:28 2025//
+/le_poll.c/1.7/Sat Nov 29 03:01:43 2025//
+/if_lereg.h/1.6/Thu Jan  1 03:01:46 2026//
+D

@@ -1,0 +1,13 @@
+/Makefile/1.1/Mon Dec 23 17:30:40 2002//
+/filecore.h/1.5/Tue Dec 25 18:33:43 2007//
+/filecore_mount.h/1.6/Sat Dec  3 17:34:43 2005//
+/filecore_extern.h/1.22/Mon Jun 24 03:01:48 2013//
+/files.filecorefs/1.4/Sun Oct 12 03:06:30 2014//
+/filecore_bmap.c/1.11/Sun Mar 29 03:25:44 2015//
+/filecore_node.c/1.31/Sat May 27 03:01:13 2017//
+/filecore_vfsops.c/1.83/Tue Mar 17 03:01:53 2020//
+/filecore_utils.c/1.12/Tue Sep 29 03:02:22 2020//
+/filecore_node.h/1.8/Mon Mar 28 03:02:03 2022//
+/filecore_vnops.c/1.50/Mon Mar 28 03:02:03 2022//
+/filecore_lookup.c/1.23/Mon Sep  9 03:01:42 2024//
+D

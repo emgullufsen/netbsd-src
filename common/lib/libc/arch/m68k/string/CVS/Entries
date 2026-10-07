@@ -1,0 +1,17 @@
+/memcpy.S/1.1/Tue Dec 20 19:28:49 2005//
+/memmove.S/1.1/Tue Dec 20 19:28:49 2005//
+/strchr.S/1.4/Wed Jul 17 03:00:59 2013//
+/strrchr.S/1.4/Wed Jul 17 03:00:59 2013//
+/bcmp.S/1.6/Sun Sep  8 03:00:48 2013//
+/bcopy.S/1.6/Sun Sep  8 03:00:48 2013//
+/bzero.S/1.6/Sun Sep  8 03:00:48 2013//
+/memset.S/1.7/Sun Sep  8 03:00:48 2013//
+/strcat.S/1.4/Sun Sep  8 03:00:48 2013//
+/strcmp.S/1.7/Sun Sep  8 03:00:48 2013//
+/strcpy.S/1.4/Sun Sep  8 03:00:48 2013//
+/strlen.S/1.4/Sun Sep  8 03:00:48 2013//
+/strncmp.S/1.7/Sun Sep  8 03:00:48 2013//
+/strncpy.S/1.5/Sun Sep  8 03:00:48 2013//
+/ffs.S/1.8/Wed Mar 11 03:00:20 2020//
+/memcmp.S/1.6/Thu Jan  1 03:00:18 2026//
+D

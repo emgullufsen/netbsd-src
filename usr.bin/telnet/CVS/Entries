@@ -1,0 +1,17 @@
+/general.h/1.6/Thu Aug  7 11:16:09 2003//
+/defines.h/1.9/Fri Dec 14 03:01:19 2018//
+/ring.h/1.11/Fri Dec 14 03:01:19 2018//
+/types.h/1.7/Fri Dec 14 03:01:19 2018//
+/network.c/1.18/Sat Dec 15 03:01:44 2018//
+/sys_bsd.c/1.40/Sat Dec 15 03:01:44 2018//
+/terminal.c/1.16/Sat Dec 15 03:01:44 2018//
+/utilities.c/1.29/Sun Jan  6 03:01:32 2019//
+/telnet.1/1.37/Sun Apr 17 03:01:32 2022//
+/ring.c/1.17/Mon May 13 03:01:44 2024//
+/main.c/1.33/Mon Nov  4 03:01:47 2024//
+/Makefile/1.62/Thu Dec 25 03:01:52 2025//
+/authenc.c/1.15/Sat Mar 14 03:02:02 2026//
+/externs.h/1.45/Sat Mar 14 03:02:02 2026//
+/telnet.c/1.45/Sat Mar 14 03:02:02 2026//
+/commands.c/1.82/Sat Mar 28 03:01:47 2026//
+D

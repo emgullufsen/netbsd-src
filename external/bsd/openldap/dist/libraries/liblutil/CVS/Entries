@@ -1,0 +1,27 @@
+/slapdmsg.bin/1.1.1.1/Mon Mar  3 10:46:05 2003//
+/slapdmsg.mc/1.1.1.1/Mon Mar  3 10:46:05 2003//
+/slapdmsg.rc/1.1.1.1/Mon Mar  3 10:46:05 2003//
+/meter.c/1.2/Sun Aug 15 03:01:05 2021//
+/slapdmsg.h/1.2/Sun Aug 15 03:01:05 2021//
+/Makefile.in/1.1.1.10/Sat Sep  6 03:01:21 2025//
+/base64.c/1.4/Sat Sep  6 03:01:21 2025//
+/detach.c/1.9/Sat Sep  6 03:01:21 2025//
+/entropy.c/1.4/Sat Sep  6 03:01:21 2025//
+/getopt.c/1.4/Sat Sep  6 03:01:21 2025//
+/getpass.c/1.5/Sat Sep  6 03:01:21 2025//
+/getpeereid.c/1.4/Sat Sep  6 03:01:21 2025//
+/hash.c/1.4/Sat Sep  6 03:01:21 2025//
+/lockf.c/1.4/Sat Sep  6 03:01:21 2025//
+/md5.c/1.9/Sat Sep  6 03:01:21 2025//
+/memcmp.c/1.4/Sat Sep  6 03:01:21 2025//
+/ntservice.c/1.4/Sat Sep  6 03:01:21 2025//
+/passfile.c/1.4/Sat Sep  6 03:01:21 2025//
+/passwd.c/1.10/Sat Sep  6 03:01:21 2025//
+/ptest.c/1.4/Sat Sep  6 03:01:21 2025//
+/sasl.c/1.4/Sat Sep  6 03:01:21 2025//
+/sha1.c/1.4/Sat Sep  6 03:01:21 2025//
+/signal.c/1.4/Sat Sep  6 03:01:21 2025//
+/sockpair.c/1.4/Sat Sep  6 03:01:21 2025//
+/utils.c/1.4/Sat Sep  6 03:01:21 2025//
+/uuid.c/1.4/Sat Sep  6 03:01:21 2025//
+D

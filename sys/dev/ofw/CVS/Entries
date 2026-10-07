@@ -1,0 +1,18 @@
+/Makefile/1.5/Wed Apr 11 19:07:37 2001//
+/ofcons.c/1.45/Sat Jul 26 03:06:21 2014//
+/openfirmio.h/1.7/Mon Sep  7 03:40:45 2015//
+/openfirmio.c/1.15/Sat Dec  7 03:01:54 2019//
+/ofdisk.c/1.54/Mon Jan 27 03:02:01 2020//
+/ofnet.c/1.63/Thu Jan 30 03:01:51 2020//
+/ofw_sysctl.c/1.2/Fri Apr  3 21:55:07 2020//
+/ofw_network_subr.c/1.10/Wed Jan 27 03:01:57 2021//
+/ofbus.c/1.31/Sun Jan 23 03:01:54 2022//
+/ofw_pci_subr.c/1.3/Sun Jan 23 03:01:54 2022//
+/ofrtc.c/1.24/Mon Sep  8 03:01:49 2025//
+/files.ofw/1.18/Sun Sep 14 03:01:50 2025//
+/openfirm.h/1.52/Wed Sep 17 03:01:51 2025//
+/ofw_i2c_subr.c/1.3/Thu Sep 18 03:01:25 2025//
+/ofw_subr.c/1.62/Sat Oct  4 03:01:24 2025//
+/ofw_isa.h/1.1/Sat Oct 18 15:40:59 2025//
+/ofw_pci.h/1.8/Sun Oct 19 03:01:56 2025//
+D

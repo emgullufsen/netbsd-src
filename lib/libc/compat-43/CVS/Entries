@@ -1,0 +1,21 @@
+/creat.c/1.10/Thu Aug  7 16:42:39 2003//
+/gethostid.c/1.6/Mon Apr 19 13:16:42 2004//
+/killpg.3/1.16/Thu Aug  7 16:42:39 2003//
+/sethostid.c/1.7/Mon Apr 19 13:16:42 2004//
+/setpgrp.c/1.8/Thu Aug  7 16:42:40 2003//
+/setrgid.c/1.12/Thu Aug  7 16:42:40 2003//
+/setruid.3/1.10/Thu Aug  7 16:42:40 2003//
+/setruid.c/1.13/Thu Aug  7 16:42:40 2003//
+/sigblock.3/1.17/Thu Aug  7 16:42:40 2003//
+/sigcompat.c/1.13/Sat Dec 24 21:11:16 2005//
+/getdtablesize.3/1.14/Fri Jan  6 03:03:56 2012//
+/getdtablesize.c/1.10/Mon Jun 25 03:01:28 2012//
+/getwd.c/1.15/Tue Jun 26 03:01:10 2012//
+/sigsetmask.3/1.19/Tue May  7 03:01:27 2013//
+/gethostid.3/1.13/Mon Mar  4 03:01:22 2019//
+/creat.3/1.17/Mon Sep  2 03:01:35 2019//
+/sigpause.3/1.16/Tue Dec  6 03:01:21 2022//
+/sigvec.3/1.27/Tue Dec  6 03:01:21 2022//
+/killpg.c/1.10/Mon Jul 15 03:01:20 2024//
+/Makefile.inc/1.17/Wed Oct  7 20:54:55 2026//
+D

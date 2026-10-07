@@ -1,0 +1,24 @@
+/atomic.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/attribute.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/bitop.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/builtins.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/checkedint.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/cpuid.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/demangle.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/exception.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/int128.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/lifetime.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/math.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/memory.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/runtime.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/simd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/time.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/vararg.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/volatile.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+D/gc////
+D/internal////
+D/stdc////
+D/stdcpp////
+D/sync////
+D/sys////
+D/thread////

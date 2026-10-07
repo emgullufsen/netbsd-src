@@ -1,0 +1,37 @@
+/config.in/1.7/Thu Sep 26 08:02:48 2019//
+/decCommonSymbols.h/1.7/Thu Sep 26 08:02:48 2019//
+/decContextSymbols.h/1.7/Thu Sep 26 08:02:48 2019//
+/decDPDSymbols.h/1.7/Thu Sep 26 08:02:48 2019//
+/decDoubleSymbols.h/1.7/Thu Sep 26 08:02:48 2019//
+/decNumberSymbols.h/1.7/Thu Sep 26 08:02:48 2019//
+/decPackedSymbols.h/1.7/Thu Sep 26 08:02:49 2019//
+/decQuadSymbols.h/1.7/Thu Sep 26 08:02:49 2019//
+/decSingleSymbols.h/1.7/Thu Sep 26 08:02:49 2019//
+D/bid////
+D/dpd////
+/Makefile.in/1.12/Mon Sep  8 03:01:16 2025//
+/aclocal.m4/1.10/Mon Sep  8 03:01:16 2025//
+/configure/1.11/Mon Sep  8 03:01:16 2025//
+/configure.ac/1.12/Mon Sep  8 03:01:16 2025//
+/dconfig.h/1.12/Mon Sep  8 03:01:16 2025//
+/decBasic.c/1.12/Mon Sep  8 03:01:16 2025//
+/decCommon.c/1.12/Mon Sep  8 03:01:16 2025//
+/decContext.c/1.12/Mon Sep  8 03:01:16 2025//
+/decContext.h/1.12/Mon Sep  8 03:01:16 2025//
+/decDPD.h/1.12/Mon Sep  8 03:01:16 2025//
+/decDouble.c/1.12/Mon Sep  8 03:01:16 2025//
+/decDouble.h/1.12/Mon Sep  8 03:01:16 2025//
+/decExcept.c/1.12/Mon Sep  8 03:01:16 2025//
+/decExcept.h/1.12/Mon Sep  8 03:01:16 2025//
+/decLibrary.c/1.12/Mon Sep  8 03:01:16 2025//
+/decNumber.c/1.12/Mon Sep  8 03:01:16 2025//
+/decNumber.h/1.12/Mon Sep  8 03:01:16 2025//
+/decNumberLocal.h/1.12/Mon Sep  8 03:01:16 2025//
+/decPacked.c/1.12/Mon Sep  8 03:01:16 2025//
+/decPacked.h/1.12/Mon Sep  8 03:01:16 2025//
+/decQuad.c/1.12/Mon Sep  8 03:01:16 2025//
+/decQuad.h/1.12/Mon Sep  8 03:01:16 2025//
+/decRound.c/1.12/Mon Sep  8 03:01:16 2025//
+/decRound.h/1.12/Mon Sep  8 03:01:16 2025//
+/decSingle.c/1.12/Mon Sep  8 03:01:16 2025//
+/decSingle.h/1.12/Mon Sep  8 03:01:16 2025//

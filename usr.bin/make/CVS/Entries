@@ -1,0 +1,42 @@
+D/PSD.doc////
+D/unit-tests////
+D/filemon////
+/.cvsignore/1.3/Tue Sep 29 03:02:26 2020//
+/pathnames.h/1.18/Mon Nov 30 03:02:12 2020//
+/trace.h/1.6/Wed Jan 20 03:02:03 2021//
+/metachar.c/1.10/Tue Jun 22 03:02:00 2021//
+/make_malloc.h/1.18/Thu Dec 16 03:02:00 2021//
+/util.c/1.78/Thu Dec 16 03:02:00 2021//
+/metachar.h/1.20/Sun Jan  9 03:01:58 2022//
+/Makefile.boot/1.25/Sat Apr 16 03:02:03 2022//
+/config.h/1.29/Thu Feb  8 03:01:45 2024//
+/lst.c/1.108/Sun Apr 28 03:01:48 2024//
+/lst.h/1.105/Sun Apr 28 03:01:48 2024//
+/buf.c/1.58/Mon Apr 29 03:01:51 2024//
+/buf.h/1.50/Mon Apr 29 03:01:51 2024//
+/test-variants.mk/1.9/Wed Jun 26 03:01:23 2024//
+/hash.c/1.80/Wed Apr 23 03:01:48 2025//
+/hash.h/1.52/Wed Apr 23 03:01:48 2025//
+/targ.c/1.185/Thu May  8 03:01:30 2025//
+/trace.c/1.35/Sat May 10 03:01:57 2025//
+/make_malloc.c/1.28/Mon Jun 30 03:01:31 2025//
+/compat.c/1.268/Mon Jul  7 03:01:50 2025//
+/meta.h/1.15/Tue Aug  5 03:01:29 2025//
+/str.h/1.21/Sun Jan  4 03:01:39 2026//
+/suff.c/1.385/Sun Jan  4 03:01:39 2026//
+/job.h/1.86/Wed Feb 11 03:02:20 2026//
+/arch.c/1.224/Tue Apr  7 03:01:45 2026//
+/cond.c/1.379/Tue Apr  7 03:01:45 2026//
+/for.c/1.187/Tue Apr  7 03:01:45 2026//
+/job.c/1.529/Tue Apr  7 03:01:45 2026//
+/make.c/1.275/Tue Apr  7 03:01:45 2026//
+/make.h/1.366/Tue Apr  7 03:01:45 2026//
+/dir.c/1.299/Sat Jul  4 03:01:46 2026//
+/dir.h/1.50/Sat Jul  4 03:01:46 2026//
+/var.c/1.1182/Tue Jul 14 03:01:43 2026//
+/Makefile/1.130/Sat Aug  1 03:01:53 2026//
+/parse.c/1.758/Sun Aug 23 03:01:46 2026//
+/str.c/1.107/Mon Aug 24 03:01:50 2026//
+/main.c/1.670/Tue Sep 22 03:01:37 2026//
+/make.1/1.396/Tue Sep 22 03:01:37 2026//
+/meta.c/1.227/Tue Sep 22 03:01:37 2026//

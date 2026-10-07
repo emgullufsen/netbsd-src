@@ -1,0 +1,20 @@
+/00-base-templates.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/10-main.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/15-android.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/15-ios.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/50-djgpp.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/50-haiku.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/50-masm.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/50-win-onecore.conf/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/INTERNALS.Configure/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/README/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/README.design/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/common.tmpl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/common0.tmpl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/descrip.mms.tmpl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/shared-info.pl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/unix-Makefile.tmpl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/unix-checker.pm/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/windows-checker.pm/1.1.1.1/Tue Apr 18 14:19:17 2023//
+/windows-makefile.tmpl/1.1.1.1/Tue Apr 18 14:19:17 2023//
+D

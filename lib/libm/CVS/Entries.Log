@@ -1,0 +1,16 @@
+A D/common////
+A D/common_source////
+A D/i387////
+A D/ieee////
+A D/mc68881////
+A D/national////
+A D/tahoe////
+A D/vax////
+R D/vax////
+R D/tahoe////
+R D/national////
+R D/mc68881////
+R D/ieee////
+R D/i387////
+R D/common_source////
+R D/common////

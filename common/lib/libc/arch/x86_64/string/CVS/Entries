@@ -1,0 +1,13 @@
+/memcpy.S/1.1/Tue Dec 20 19:28:51 2005//
+/memmove.S/1.1/Tue Dec 20 19:28:51 2005//
+/bcopy.S/1.5/Sun Mar 23 03:37:04 2014//
+/ffs.S/1.5/Sun Mar 23 03:37:04 2014//
+/strcat.S/1.2/Sun Mar 23 03:37:04 2014//
+/strchr.S/1.7/Sun Mar 23 03:37:04 2014//
+/strcmp.S/1.2/Sun Mar 23 03:37:04 2014//
+/strcpy.S/1.2/Sun Mar 23 03:37:04 2014//
+/strrchr.S/1.3/Sun Mar 23 03:37:04 2014//
+/memset.S/1.5/Fri May 23 03:05:24 2014//
+/strlen.S/1.8/Sun Mar 31 03:00:22 2024//
+/memchr.S/1.8/Mon Sep 21 03:00:17 2026//
+D

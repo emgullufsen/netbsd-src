@@ -1,0 +1,26 @@
+/t-hpux/1.5/Thu Sep 26 05:55:50 2019//
+/t-hpux10/1.5/Thu Sep 26 05:55:50 2019//
+/t-linux/1.5/Thu Sep 26 05:55:50 2019//
+/t-netbsd/1.5/Thu Sep 26 05:55:50 2019//
+/t-openbsd/1.5/Thu Sep 26 05:55:50 2019//
+/t-pa64/1.5/Thu Sep 26 05:55:50 2019//
+/t-slibgcc-dwarf-ver/1.5/Thu Sep 26 05:55:50 2019//
+/t-slibgcc-sjlj-ver/1.5/Thu Sep 26 05:55:50 2019//
+/t-linux64/1.6/Mon Feb 20 03:01:12 2023//
+/t-stublib/1.7/Mon Feb 20 03:01:12 2023//
+/fptr.c/1.11/Mon Sep  8 03:01:17 2025//
+/gthr-dce.h/1.10/Mon Sep  8 03:01:17 2025//
+/hpux-unwind.h/1.10/Mon Sep  8 03:01:17 2025//
+/lib2funcs.S/1.10/Mon Sep  8 03:01:17 2025//
+/linux-atomic.c/1.11/Mon Sep  8 03:01:17 2025//
+/linux-unwind.h/1.12/Mon Sep  8 03:01:17 2025//
+/milli64.S/1.10/Mon Sep  8 03:01:17 2025//
+/pa64-hpux-lib.h/1.1.1.5/Mon Sep  8 03:01:17 2025//
+/quadlib.c/1.10/Mon Sep  8 03:01:17 2025//
+/sfp-exceptions.c/1.1.1.1/Sun Sep  7 02:58:38 2025//
+/sfp-machine.h/1.1.1.1/Sun Sep  7 02:58:38 2025//
+/stublib.c/1.10/Mon Sep  8 03:01:17 2025//
+/t-dimode/1.1.1.1/Sun Sep  7 02:58:38 2025//
+/t-slibgcc-hpux/1.10/Mon Sep  8 03:01:17 2025//
+/t-softfp-sfdftf/1.1.1.1/Sun Sep  7 02:58:38 2025//
+D

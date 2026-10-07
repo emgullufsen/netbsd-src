@@ -1,0 +1,15 @@
+/Makefile/1.1/Tue Dec  7 17:39:55 2021//
+/common.c/1.1/Tue Dec  7 17:39:55 2021//
+/common.h/1.1/Tue Dec  7 17:39:55 2021//
+/i2cspi.c/1.1/Tue Dec  7 17:39:55 2021//
+/i2cspi.h/1.1/Tue Dec  7 17:39:55 2021//
+/printscmd.c/1.1/Tue Dec  7 17:39:55 2021//
+/printscmd.h/1.1/Tue Dec  7 17:39:55 2021//
+/responses.h/1.1/Tue Dec  7 17:39:55 2021//
+/scmdctl.h/1.1/Tue Dec  7 17:39:55 2021//
+/scmdctlconst.h/1.1/Tue Dec  7 17:39:55 2021//
+/uart.h/1.1/Tue Dec  7 17:39:55 2021//
+/uart.c/1.3/Tue Apr 12 03:01:59 2022//
+/scmdctl.c/1.3/Mon Dec  2 03:01:44 2024//
+/scmdctl.1/1.2/Wed Jul  9 03:01:27 2025//
+D

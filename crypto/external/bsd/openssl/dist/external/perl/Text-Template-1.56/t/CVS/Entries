@@ -1,0 +1,23 @@
+/author-pod-syntax.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/author-signature.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/basic.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/broken.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/delimiters.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/error.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/exported.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/hash.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/inline-comment.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/nested-tags.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/ofh.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/out.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/prepend.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/preprocess.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/rt29928.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/safe.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/safe2.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/safe3.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/strict.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/taint.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/template-encoding.t/1.1.1.1/Sun May  7 18:29:27 2023//
+/warnings.t/1.1.1.1/Sun May  7 18:29:27 2023//
+D

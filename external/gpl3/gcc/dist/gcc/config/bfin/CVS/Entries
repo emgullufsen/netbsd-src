@@ -1,0 +1,21 @@
+/t-rtems/1.1.1.1/Tue Jun 21 01:22:08 2011//
+/bfin-modes.def/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/bfin-opts.h/1.1.1.11/Sun Sep 14 03:01:03 2025//
+/bfin-protos.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/bfin.cc/1.1.1.2/Sun Sep 14 03:01:03 2025//
+/bfin.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/bfin.md/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/bfin.opt/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/bfin.opt.urls/1.1.1.1/Sat Sep 13 23:45:27 2025//
+/constraints.md/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/elf.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/linux.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/predicates.md/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/print-sysroot-suffix.sh/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/rtems.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/sync.md/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/t-bfin-elf/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/t-bfin-linux/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/t-bfin-uclinux/1.1.1.12/Sun Sep 14 03:01:03 2025//
+/uclinux.h/1.1.1.12/Sun Sep 14 03:01:03 2025//
+D

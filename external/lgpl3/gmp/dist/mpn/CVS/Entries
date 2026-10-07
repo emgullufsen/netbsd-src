@@ -1,0 +1,34 @@
+D/alpha////
+D/arm////
+D/cray////
+D/generic////
+D/ia64////
+D/lisp////
+D/m68k////
+D/m88k////
+D/minithres////
+D/mips32////
+D/mips64////
+D/pa32////
+D/pa64////
+D/power////
+D/powerpc32////
+D/powerpc64////
+D/sh////
+D/sparc32////
+D/sparc64////
+D/thumb////
+D/vax////
+D/x86////
+D/x86_64////
+D/s390_32////
+D/s390_64////
+/Makeasm.am/1.1.1.2/Wed Aug 23 03:01:04 2017//
+/README/1.1.1.2/Wed Aug 23 03:01:04 2017//
+/cpp-ccas/1.1.1.2/Wed Aug 23 03:01:04 2017//
+/m4-ccas/1.1.1.2/Wed Aug 23 03:01:04 2017//
+D/arm64////
+/Makefile.am/1.1.1.4/Sun Sep 27 03:01:37 2020//
+/Makefile.in/1.5/Sun Sep 27 03:01:37 2020//
+/asm-defs.m4/1.1.1.4/Sun Sep 27 03:01:37 2020//
+D/riscv////

@@ -1,0 +1,46 @@
+D/backend////
+D/cc1////
+D/cc1obj////
+D/cc1plus////
+D/cpp////
+D/frontend////
+D/g++////
+D/gcc////
+D/gcov////
+D/host-libiberty////
+D/include////
+D/libcpp////
+D/libdecnumber////
+D/common////
+D/common-target////
+D/gcc-ar////
+D/gcc-nm////
+D/gcc-ranlib////
+D/lto-wrapper////
+D/lto1////
+D/host-libcpp////
+D/gcov-dump////
+/Makefile.backtrace/1.2/Sat Feb  2 03:01:03 2019//
+/Makefile.common/1.2/Sat Feb  2 03:01:03 2019//
+/Makefile.common-target/1.2/Sat Feb  2 03:01:03 2019//
+/Makefile.libcpp/1.3/Sat Feb  2 03:01:03 2019//
+/Makefile.libdecnumber/1.3/Sat Feb  2 03:01:03 2019//
+/Makefile.libiberty/1.2/Sat Feb  2 03:01:03 2019//
+/Makefile.target-defines/1.2/Sun Sep  6 03:01:47 2020//
+D/lto-dump////
+D/cc1objplus////
+/Makefile.prog/1.2/Sat Sep 18 03:01:13 2021//
+/Makefile.checksum/1.2/Wed Aug  2 03:01:04 2023//
+/Makefile.driver/1.3/Wed Aug  2 03:01:04 2023//
+/Makefile.gcc-tool/1.4/Wed Aug  2 03:01:04 2023//
+/Makefile.libcody/1.1/Tue Aug  1 05:57:54 2023//
+D/libcody////
+/Makefile.backend/1.11/Sun Feb 25 03:01:01 2024//
+/rs6000-inc.mk/1.1/Tue Jun 18 04:07:18 2024//
+/Makefile.isl/1.2/Sun Aug 11 03:01:26 2024//
+/Makefile.options/1.3/Thu Sep 18 03:00:59 2025//
+/Makefile/1.20/Mon Jan 19 03:01:30 2026//
+/Makefile.frontend/1.8/Mon Jan 19 03:01:30 2026//
+/Makefile.inc/1.43/Mon Jan 19 03:01:30 2026//
+D/f951////
+D/gfortran////

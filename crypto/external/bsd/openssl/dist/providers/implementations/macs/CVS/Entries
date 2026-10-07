@@ -1,0 +1,11 @@
+/blake2_mac_impl.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/blake2b_mac.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/blake2s_mac.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/build.info/1.1.1.1/Sun May  7 18:29:30 2023//
+/gmac_prov.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/hmac_prov.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/poly1305_prov.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/siphash_prov.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/kmac_prov.c/1.1.1.2/Thu Oct 26 03:00:23 2023//
+/cmac_prov.c/1.1.1.2/Wed Jun 12 03:00:19 2024//
+D

@@ -1,0 +1,17 @@
+/RefactoringAction.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringActionRuleRequirements.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringActionRules.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringActionRulesInternal.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringDiagnostic.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringOption.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringOptionVisitor.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+/RefactoringResultConsumer.h/1.1.1.1/Fri Nov  8 14:30:10 2019//
+D/Extract////
+D/Rename////
+/ASTSelection.h/1.1.1.2/Sun May 30 03:00:31 2021//
+/AtomicChange.h/1.1.1.2/Sun May 30 03:00:31 2021//
+/Lookup.h/1.1.1.1/Sun May 30 01:25:25 2021//
+/RecursiveSymbolVisitor.h/1.1.1.2/Sun May 30 03:00:31 2021//
+/RefactoringActionRule.h/1.1.1.2/Sun May 30 03:00:32 2021//
+/RefactoringOptions.h/1.1.1.2/Sun May 30 03:00:32 2021//
+/RefactoringRuleContext.h/1.1.1.2/Sun May 30 03:00:32 2021//

@@ -1,0 +1,21 @@
+/auth.h/1.11/Mon Feb  7 03:04:14 2005//
+/forward.c/1.3/Mon Feb  7 03:04:16 2005//
+/key-proto.h/1.6/Mon Feb  7 03:04:18 2005//
+/misc-proto.h/1.10/Mon Feb  7 03:04:18 2005//
+/pk.c/1.4/Sat Feb 19 22:55:35 2005//
+/pk.h/1.2/Sat Feb 19 22:55:35 2005//
+/shlib_version/1.11/Mon Jan 12 03:04:24 2009//
+/getent.c/1.11/Thu Mar 22 03:02:52 2012//
+/misc.c/1.13/Thu Mar 22 03:02:52 2012//
+/Makefile/1.37/Mon May 22 03:01:08 2017//
+/auth-proto.h/1.16/Sat Dec 15 03:01:30 2018//
+/genget.c/1.14/Sat Dec 15 03:01:30 2018//
+/misc.h/1.10/Sat Dec 15 03:01:30 2018//
+/kerberos5.c/1.21/Tue Apr 13 03:01:44 2021//
+/auth.c/1.25/Mon Sep 20 03:01:42 2021//
+/sra.c/1.12/Sun Oct 31 03:01:42 2021//
+/enc-proto.h/1.11/Wed Oct 30 03:01:14 2024//
+/enc_des.c/1.18/Wed Oct 30 03:01:14 2024//
+/encrypt.c/1.20/Wed Oct 30 03:01:14 2024//
+/encrypt.h/1.10/Wed Oct 30 03:01:14 2024//
+D

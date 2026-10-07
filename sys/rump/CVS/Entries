@@ -1,0 +1,19 @@
+D/dev////
+D/fs////
+D/include////
+D/librump////
+D/net////
+D/kern////
+/README.dirs/1.12/Wed Jan  9 03:01:20 2013//
+/ldscript_sun.rump/1.1/Fri Mar 15 12:13:07 2013//
+/linksyms_sun.c/1.1/Fri Mar 15 12:13:07 2013//
+/sunldgen.sh/1.1/Fri Mar 15 12:12:16 2013//
+/Makefile/1.7/Mon Nov 10 03:04:09 2014//
+D/share////
+/TODO/1.12/Wed Sep  9 03:10:37 2015//
+/makerumpsyscalls.sh/1.3/Wed Jan 27 03:01:19 2016//
+/ldscript.rump/1.4/Sun Mar 22 03:02:03 2020//
+/listsrcdirs/1.50/Sun Apr 26 03:01:59 2020//
+/README.compileopts/1.17/Thu Jul  6 03:01:41 2023//
+/rump.sysmap/1.11/Mon May 20 03:01:45 2024//
+/Makefile.rump/1.141/Sat Oct  3 03:01:49 2026//

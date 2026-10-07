@@ -1,0 +1,13 @@
+D/adc////
+/adi,ad5592r.h/1.1.1.2/Fri Dec  1 03:01:17 2017//
+D/temperature////
+/adi,ad4695.h/1.1.1.1/Sun Jan 18 05:21:44 2026//
+/qcom,spmi-adc7-pm7325.h/1.1.1.1/Sun Jan 18 05:21:44 2026//
+/qcom,spmi-adc7-pm8350.h/1.1.1.2/Mon Jan 19 03:02:05 2026//
+/qcom,spmi-adc7-pm8350b.h/1.1.1.2/Mon Jan 19 03:02:05 2026//
+/qcom,spmi-adc7-pmk8350.h/1.1.1.2/Mon Jan 19 03:02:05 2026//
+/qcom,spmi-adc7-pmr735a.h/1.1.1.2/Mon Jan 19 03:02:05 2026//
+/qcom,spmi-adc7-pmr735b.h/1.1.1.2/Mon Jan 19 03:02:05 2026//
+/qcom,spmi-adc7-smb139x.h/1.1.1.1/Sun Jan 18 05:21:44 2026//
+/qcom,spmi-vadc.h/1.1.1.4/Mon Jan 19 03:02:05 2026//
+D/addac////

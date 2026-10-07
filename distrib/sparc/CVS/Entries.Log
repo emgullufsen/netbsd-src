@@ -1,0 +1,8 @@
+A D/bootfs.sysinst////
+A D/floppies////
+A D/ramdisk.sysinst////
+A D/xsets////
+R D/xsets////
+R D/ramdisk.sysinst////
+R D/floppies////
+R D/bootfs.sysinst////

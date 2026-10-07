@@ -1,0 +1,18 @@
+/delay.c/1.2/Sat Apr 22 07:58:53 2006//
+/efi_console.c/1.4/Mon Jul 20 04:59:03 2009//
+/efifs_ls.c/1.2/Sat Apr 22 07:58:53 2006//
+/module.c/1.2/Sat Apr 22 07:58:53 2006//
+/efifsdev.h/1.2/Fri Dec 28 03:03:47 2012//
+/efifs.c/1.6/Wed Mar 26 05:01:16 2014//
+/Makefile/1.6/Fri Aug  5 03:01:07 2016//
+/bootinfo.c/1.5/Fri Aug  5 03:01:07 2016//
+/copy.c/1.5/Fri Aug  5 03:01:07 2016//
+/efi.c/1.5/Fri Aug  5 03:01:07 2016//
+/efifpswa.c/1.5/Fri Aug  5 03:01:07 2016//
+/devicename.c/1.9/Tue Aug 16 03:01:13 2016//
+/efinet.c/1.8/Sun Aug 19 03:01:16 2018//
+/exec.c/1.8/Tue May  7 03:01:19 2019//
+/efiboot.h/1.4/Mon Jan 27 03:01:57 2020//
+/Makefile.inc/1.8/Thu Sep 25 03:01:27 2025//
+/time.c/1.7/Wed Sep  2 03:01:45 2026//
+D

@@ -1,0 +1,27 @@
+/iomd_dma.c/1.10/Sat Aug  5 18:22:57 2006//
+/iomd_dma.h/1.3/Sat Mar 14 14:45:55 2009//
+/iomd_io_asm.S/1.1/Fri Oct  5 22:27:41 2001//
+/iomdiicvar.h/1.2/Sun Dec 11 12:16:47 2005//
+/iomdkbcvar.h/1.2/Sun Dec 11 12:16:47 2005//
+/makemodes.awk/1.7/Mon Apr 28 20:23:14 2008//
+/vidcaudiovar.h/1.1/Mon Feb 18 12:52:09 2002//
+/vidcvideo.h/1.4/Mon Apr 28 20:23:14 2008//
+D/console////
+/iomdvar.h/1.4/Fri May 11 03:02:10 2012//
+/iomd_fiq.S/1.5/Mon Aug 19 03:05:57 2013//
+/iomd_io.c/1.7/Sat Mar 17 03:01:07 2018//
+/files.iomd/1.20/Thu May  9 03:01:19 2019//
+/iomd_clock.c/1.30/Sat May 30 03:01:45 2020//
+/iomd_irqhandler.c/1.24/Sat Nov 21 03:01:48 2020//
+/iomdkbc.c/1.7/Sat Nov 21 03:01:48 2020//
+/iomd_irq.S/1.18/Sun Nov 22 03:01:48 2020//
+/vidc20.c/1.19/Sun Aug  8 03:01:43 2021//
+/iomdreg.h/1.5/Sun Apr 17 03:01:22 2022//
+/vidc20config.h/1.8/Sun May 29 03:01:20 2022//
+/iomd.c/1.24/Wed Sep 28 03:01:33 2022//
+/qms.c/1.22/Wed Sep 28 03:01:33 2022//
+/vidcaudio.c/1.62/Wed Sep 28 03:01:33 2022//
+/vidc.h/1.14/Tue Feb  6 03:01:31 2024//
+/vidc20config.c/1.37/Sun May 19 03:01:39 2024//
+/vidcvideo.c/1.51/Mon Jan  6 03:01:14 2025//
+/iomdiic.c/1.13/Tue Sep 16 03:01:22 2025//

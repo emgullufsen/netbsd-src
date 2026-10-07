@@ -1,0 +1,9 @@
+/e_sqrt.S/1.1/Sun Feb  3 07:13:07 2013//
+/e_sqrtf.S/1.1/Sun Feb  3 07:13:07 2013//
+/s_fma.S/1.1/Mon Feb 11 17:41:13 2013//
+/s_fmaf.S/1.1/Mon Feb 11 17:41:13 2013//
+/s_fabsf.S/1.2/Fri Feb 15 03:01:58 2013//
+/lrint.S/1.2/Fri Mar 17 03:01:02 2017//
+/lrintf.S/1.2/Fri Mar 17 03:01:02 2017//
+/fenv.c/1.9/Tue May  9 03:01:05 2017//
+D

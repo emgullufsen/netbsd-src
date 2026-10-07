@@ -1,0 +1,12 @@
+/BUCK/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/Makefile/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/README.md/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/gzclose.c/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/gzcompatibility.h/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/gzguts.h/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/gzlib.c/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/gzread.c/1.1.1.1/Sun Oct 27 22:44:15 2024//
+/zstd_zlibwrapper.c/1.1.1.1/Sun Oct 27 22:44:15 2024//
+D/examples////
+/gzwrite.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/zstd_zlibwrapper.h/1.1.1.2/Sat May  2 03:01:20 2026//

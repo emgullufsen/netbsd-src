@@ -1,0 +1,16 @@
+A D/crtstuff4////
+A D/libdecnumber////
+A D/libgcc4////
+A D/libmudflap////
+A D/libmudflapth////
+A D/libobjc4////
+A D/libstdc++-v3_4////
+A D/libsupc++4////
+R D/libsupc++4////
+R D/libstdc++-v3_4////
+R D/libobjc4////
+R D/libmudflapth////
+R D/libmudflap////
+R D/libgcc4////
+R D/libdecnumber////
+R D/crtstuff4////

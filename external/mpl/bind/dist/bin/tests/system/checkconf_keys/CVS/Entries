@@ -1,0 +1,14 @@
+/bad-algorithm.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-default-algorithm.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-default-kz.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-keystore.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-length.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-missing-keyfile.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-role.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-superfluous-keyfile.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/bad-tagrange.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/named.conf.j2/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/setup.sh/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/template.db.in/1.1.1.1/Tue Apr  7 23:58:16 2026//
+/tests_checkconf_keys.py/1.1.1.1/Tue Apr  7 23:58:16 2026//
+D

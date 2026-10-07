@@ -1,0 +1,6 @@
+A D/clk////
+A D/genpd////
+A D/reset-controller////
+R D/reset-controller////
+R D/genpd////
+R D/clk////

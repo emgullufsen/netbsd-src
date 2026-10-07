@@ -1,0 +1,16 @@
+D/aarch64////
+D/arm////
+D/i386////
+D/mips32////
+D/mips64////
+D/mipso32////
+D/powerpc////
+D/powerpc64////
+D/riscv32////
+D/riscv64////
+D/sparc////
+D/sparc64////
+D/x86_64////
+/Makefile/1.10/Mon Sep  8 03:01:25 2025//
+/Makefile.arch_bits/1.9/Mon Sep  8 03:01:25 2025//
+/mkcxxconfig_h.sh/1.9/Mon Sep  8 03:01:25 2025//

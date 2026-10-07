@@ -1,0 +1,19 @@
+/srv01.client01.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.client01.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.client02-ns2.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.client02-ns2.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.client03-ns2-expired.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.client03-ns2-expired.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt01.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt01.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt02-no-san.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt02-no-san.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt03-expired.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv01.crt03-expired.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv02.crt01.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv02.crt01.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv03.crt01.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv03.crt01.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv04.crt01.example.com.key/1.1.1.1/Thu Sep 17 17:45:02 2026//
+/srv04.crt01.example.com.pem/1.1.1.1/Thu Sep 17 17:45:02 2026//
+D

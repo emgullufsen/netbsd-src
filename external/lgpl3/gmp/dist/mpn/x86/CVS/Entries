@@ -1,0 +1,54 @@
+D/atom////
+D/fat////
+D/i486////
+D/k6////
+D/k7////
+D/p6////
+D/pentium////
+D/pentium4////
+D/core2////
+D/coreinhm////
+D/coreisbr////
+D/geode////
+D/k10////
+D/k8////
+D/nano////
+/README/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/aors_n.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/aorsmul_1.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/bdiv_dbm1c.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/bdiv_q_1.asm/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/cnd_aors_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//
+/copyd.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/copyi.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/darwin.m4/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/dive_1.asm/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/divrem_1.asm/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/divrem_2.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/gmp-mparam.h/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/lshift.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/mod_34lsub1.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/mul_1.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/mul_basecase.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/rshift.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/sec_tabselect.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//
+/sqr_basecase.asm/1.1.1.3/Wed Aug 23 03:01:05 2017//
+/t-zdisp.sh/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/t-zdisp2.pl/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/udiv.asm/1.1.1.2/Wed Aug 23 03:01:05 2017//
+/umul.asm/1.1.1.2/Wed Aug 23 03:01:05 2017//
+D/bd1////
+D/bd2////
+D/coreihwl////
+D/mmx////
+/gcd_11.asm/1.1.1.1/Sun Sep 27 00:27:05 2020//
+/x86-defs.m4/1.1.1.4/Sun Sep 27 03:01:37 2020//
+D/bd4////
+D/bt1////
+D/bt2////
+D/coreibwl////
+D/goldmont////
+D/silvermont////
+D/skylake////
+D/zn1////
+D/zn2////

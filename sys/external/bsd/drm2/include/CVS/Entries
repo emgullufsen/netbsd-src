@@ -1,0 +1,16 @@
+D/acpi////
+D/asm////
+D/drm////
+D/linux////
+D/radeon////
+D/video////
+/gpu_sched_trace.h/1.1/Mon Aug 27 14:02:32 2018//
+/radeon_trace.h/1.2/Tue Aug 28 03:01:27 2018//
+D/soc////
+D/trace////
+D/media////
+D/uapi////
+/amdgpufb.h/1.2/Mon Dec 20 03:02:13 2021//
+/drm_trace.h/1.5/Mon Dec 20 03:02:13 2021//
+/i915_trace.h/1.23/Mon Dec 20 03:02:13 2021//
+D/sound////

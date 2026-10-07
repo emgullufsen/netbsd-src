@@ -1,0 +1,30 @@
+/console.c/1.1.1.1/Tue Apr  1 16:16:06 2014//
+/crc.c/1.1.1.1/Tue Apr  1 16:16:06 2014//
+/lock.c/1.1.1.1/Tue Apr  1 16:16:06 2014//
+D/ia32////
+D/ia64////
+D/runtime////
+D/x86_64////
+/boxdraw.c/1.1.1.2/Fri Aug 17 03:01:18 2018//
+/debug.c/1.1.1.2/Fri Aug 17 03:01:18 2018//
+/event.c/1.3/Fri Aug 17 03:01:18 2018//
+/exit.c/1.1.1.1/Thu Aug 16 18:17:47 2018//
+/hw.c/1.3/Fri Aug 17 03:01:18 2018//
+/init.c/1.2/Fri Aug 17 03:01:18 2018//
+D/aarch64////
+D/arm////
+D/mips64el////
+/Makefile/1.1.1.3/Fri Oct  1 03:01:54 2021//
+/cmdline.c/1.1.1.2/Fri Oct  1 03:01:54 2021//
+/data.c/1.1.1.3/Fri Oct  1 03:01:54 2021//
+/dpath.c/1.4/Fri Oct  1 03:01:54 2021//
+/error.c/1.1.1.3/Fri Oct  1 03:01:54 2021//
+/guid.c/1.1.1.3/Fri Oct  1 03:01:54 2021//
+/hand.c/1.5/Fri Oct  1 03:01:54 2021//
+/misc.c/1.3/Fri Oct  1 03:01:54 2021//
+/pause.c/1.1.1.1/Thu Sep 30 18:50:09 2021//
+/print.c/1.5/Fri Oct  1 03:01:54 2021//
+/smbios.c/1.1.1.3/Fri Oct  1 03:01:54 2021//
+/str.c/1.1.1.3/Fri Oct  1 03:01:54 2021//
+D/riscv64////
+/sread.c/1.2/Sun Oct 24 03:01:54 2021//

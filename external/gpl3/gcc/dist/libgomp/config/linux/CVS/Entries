@@ -1,0 +1,25 @@
+D/alpha////
+D/ia64////
+D/mips////
+D/powerpc////
+D/s390////
+D/sparc////
+D/x86////
+/omp-lock.h/1.1.1.2/Sun Mar  2 03:06:11 2014//
+D/tile////
+/affinity.c/1.1.1.13/Sun Sep 14 03:01:15 2025//
+/allocator.c/1.1.1.1/Sat Sep 13 23:45:42 2025//
+/bar.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/bar.h/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/doacross.h/1.1.1.9/Sun Sep 14 03:01:15 2025//
+/futex.h/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/lock.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/mutex.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/mutex.h/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/proc.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/proc.h/1.1.1.11/Sun Sep 14 03:01:15 2025//
+/ptrlock.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/ptrlock.h/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/sem.c/1.1.1.12/Sun Sep 14 03:01:15 2025//
+/sem.h/1.1.1.13/Sun Sep 14 03:01:15 2025//
+/wait.h/1.1.1.12/Sun Sep 14 03:01:15 2025//

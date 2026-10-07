@@ -1,0 +1,31 @@
+D/bigreq////
+D/composite////
+D/damage////
+D/dpms////
+D/dri2////
+D/files////
+D/glx////
+D/libxcb////
+D/randr////
+D/record////
+D/render////
+D/res////
+D/screensaver////
+D/shape////
+D/shm////
+D/sync////
+D/xc_misc////
+D/xf86dri////
+D/xfixes////
+D/xinerama////
+D/xproto////
+D/xtest////
+D/xv////
+D/xvmc////
+D/dri3////
+D/present////
+D/xkb////
+D/xinput////
+/Makefile/1.5/Fri Jul  5 03:01:25 2024//
+D/dbe////
+/xcb.mk/1.6/Fri Nov  1 03:01:08 2024//

@@ -1,0 +1,22 @@
+D/dotcmd////
+/t_evaltested.sh/1.2/Mon Mar 28 03:01:13 2016//
+/t_set_e.sh/1.4/Fri Apr  1 03:01:14 2016//
+/t_wait.sh/1.8/Fri Apr  1 03:01:14 2016//
+/t_exit.sh/1.6/Sun May  8 03:01:12 2016//
+/t_redircloexec.sh/1.5/Sun May 28 03:01:17 2017//
+/Makefile/1.15/Wed Feb 17 03:02:00 2021//
+/t_redir.sh/1.14/Mon Nov 22 03:01:55 2021//
+/t_here.sh/1.9/Tue Nov 23 03:01:59 2021//
+/t_varval.sh/1.2/Tue Nov 23 03:01:59 2021//
+/t_option.sh/1.9/Mon May 23 03:01:26 2022//
+/t_cmdsub.sh/1.6/Thu May 11 03:01:41 2023//
+/t_patterns.sh/1.7/Fri May 12 03:01:42 2023//
+/t_syntax.sh/1.13/Fri Dec 29 03:01:43 2023//
+/t_ulimit.sh/1.4/Mon Apr 29 03:01:49 2024//
+/t_varquote.sh/1.6/Mon Apr 29 03:01:49 2024//
+/t_shift.sh/1.3/Sun Sep 22 03:01:50 2024//
+/t_input.sh/1.3/Tue Feb 24 03:01:47 2026//
+/t_fsplit.sh/1.11/Wed Mar 25 03:01:46 2026//
+/t_expand.sh/1.31/Sat Mar 28 03:01:46 2026//
+/t_arith.sh/1.11/Thu Jul  2 03:01:45 2026//
+/t_builtins.sh/1.9/Thu Jul  2 03:01:45 2026//

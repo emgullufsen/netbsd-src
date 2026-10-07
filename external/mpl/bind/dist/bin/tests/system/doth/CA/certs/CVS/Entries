@@ -1,0 +1,19 @@
+/srv01.client01.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.client01.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.client02-ns2.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.client02-ns2.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.client03-ns2-expired.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.client03-ns2-expired.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt01.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt01.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt02-no-san.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt02-no-san.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt03-expired.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv01.crt03-expired.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv02.crt01.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv02.crt01.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv03.crt01.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv03.crt01.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv04.crt01.example.com.key/1.1.1.1/Wed Feb 21 21:54:26 2024//
+/srv04.crt01.example.com.pem/1.1.1.1/Wed Feb 21 21:54:26 2024//
+D

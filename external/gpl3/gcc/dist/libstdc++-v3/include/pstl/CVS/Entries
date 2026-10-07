@@ -1,0 +1,24 @@
+/LICENSE.txt/1.1.1.1/Sat Sep  5 07:52:10 2020//
+/glue_memory_defs.h/1.1.1.2/Sun Apr 11 03:01:42 2021//
+/glue_algorithm_defs.h/1.1.1.3/Mon Jul 31 03:01:24 2023//
+/parallel_backend_utils.h/1.1.1.3/Mon Jul 31 03:01:24 2023//
+/algorithm_fwd.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/algorithm_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/execution_defs.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/execution_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/glue_algorithm_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/glue_execution_defs.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/glue_memory_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/glue_numeric_defs.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/glue_numeric_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/memory_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/numeric_fwd.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/numeric_impl.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/parallel_backend.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/parallel_backend_serial.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/parallel_impl.h/1.1.1.3/Sun Sep 14 03:01:19 2025//
+/pstl_config.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/unseq_backend_simd.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/utils.h/1.1.1.4/Sun Sep 14 03:01:19 2025//
+/parallel_backend_tbb.h/1.1.1.5/Sun Sep 27 03:01:29 2026//
+D

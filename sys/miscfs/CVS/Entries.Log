@@ -1,0 +1,12 @@
+A D/devfs////
+A D/lofs////
+A D/portal////
+A D/ptyfs////
+A D/syncfs////
+A D/union////
+R D/union////
+R D/syncfs////
+R D/ptyfs////
+R D/portal////
+R D/lofs////
+R D/devfs////

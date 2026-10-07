@@ -1,0 +1,70 @@
+D/csu////
+D/i18n_module////
+D/libbluetooth////
+D/libbsdmalloc////
+D/libbz2////
+D/libcrypt////
+D/libcurses////
+D/libedit////
+D/libform////
+D/libintl////
+D/libipsec////
+D/libkvm////
+D/libmenu////
+D/libossaudio////
+D/libp2k////
+D/libpam////
+D/libpci////
+D/libposix////
+D/libprop////
+D/libpthread////
+D/libpuffs////
+D/libradius////
+D/librefuse////
+D/libresolv////
+D/librmt////
+D/librt////
+D/librump////
+D/librumpnet////
+D/librumpuser////
+D/librumpvfs////
+D/libskey////
+D/librumpdev////
+D/libtelnet////
+D/libukfs////
+D/libusbhid////
+D/libutil////
+D/libwrap////
+D/liby////
+D/libz////
+/bumpversion/1.10/Sat Jul 26 19:24:24 2003//
+D/libc////
+D/libcompat////
+D/libm////
+D/librpcsvc////
+D/libarch////
+D/libterminfo////
+D/libperfuse////
+D/librumpclient////
+D/librumphijack////
+D/libisns////
+D/libnpf////
+D/libdm////
+D/libquota////
+D/libppath////
+D/lua////
+/Makefile.inc/1.7/Thu Mar 22 03:02:39 2012//
+D/libexecinfo////
+D/npf////
+D/libbpfjit////
+D/libc_vfp////
+D/libkern////
+D/libpanel////
+D/libc_fp////
+D/librumpres////
+D/libnvmm////
+/checkver/1.18/Mon Dec  6 03:01:47 2021//
+/checkvers/1.9/Mon Dec  6 03:01:47 2021//
+D/libc_aligned////
+/checkoldver/1.5/Thu May 30 03:01:37 2024//
+/Makefile/1.318/Tue Jul 21 03:01:47 2026//

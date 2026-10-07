@@ -1,0 +1,25 @@
+D/common////
+D/ddc////
+D/dixmods////
+D/doc////
+D/dri////
+D/dri2////
+D/dummy////
+D/exa////
+D/i2c////
+D/int10////
+D/loader////
+D/ramdac////
+D/shadowfb////
+D/utils////
+D/vbe////
+D/vgahw////
+D/x86emu////
+D/xf86config////
+D/xf86modes////
+D/xorgos////
+D/Xorg////
+D/drivers////
+D/xkb////
+D/glamor_egl////
+/Makefile/1.41/Sat Jul 16 03:01:16 2022//

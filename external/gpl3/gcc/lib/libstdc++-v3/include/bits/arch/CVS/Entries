@@ -1,0 +1,14 @@
+/Makefile.arch_bits/1.1/Sat Mar  1 10:00:47 2014//
+D/i386////
+D/mips32////
+D/mips64////
+D/mipso32////
+D/sparc////
+D/sparc64////
+D/x86_64////
+D/powerpc////
+D/powerpc64////
+D/riscv32////
+D/riscv64////
+/Makefile/1.7/Fri Aug 20 03:01:13 2021//
+/mkcxxconfig_h.sh/1.2/Sun Dec 12 03:01:13 2021//

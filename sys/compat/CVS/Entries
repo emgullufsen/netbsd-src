@@ -1,0 +1,18 @@
+D/aoutm68k////
+D/common////
+D/freebsd////
+D/linux////
+D/linux32////
+D/m68k4k////
+D/net////
+D/netbsd32////
+D/netinet6////
+D/ossaudio////
+D/sunos////
+D/sunos32////
+D/sys////
+D/ultrix////
+D/vax1k////
+/Makefile/1.7/Tue Mar 26 03:01:17 2019//
+/Makefile.syscall/1.4/Tue Mar 26 03:01:17 2019//
+D/ufs////

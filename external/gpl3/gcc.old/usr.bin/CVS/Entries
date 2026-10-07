@@ -1,0 +1,44 @@
+D/backend////
+D/cc1////
+D/cc1obj////
+D/cc1plus////
+D/common////
+D/common-target////
+D/cpp////
+D/frontend////
+D/g++////
+D/gcc////
+D/gcc-ar////
+D/gcc-nm////
+D/gcc-ranlib////
+D/gcov////
+D/gcov-dump////
+D/host-libcpp////
+D/host-libiberty////
+D/include////
+D/libcpp////
+D/libdecnumber////
+D/lto-wrapper////
+D/lto1////
+D/cc1objplus////
+D/lto-dump////
+/Makefile.backend/1.13/Mon Sep  8 03:01:27 2025//
+/Makefile.backtrace/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.checksum/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.common/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.common-target/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.driver/1.5/Mon Sep  8 03:01:27 2025//
+/Makefile.frontend/1.13/Mon Sep  8 03:01:27 2025//
+/Makefile.gcc-tool/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.isl/1.2/Sun Sep  7 04:12:28 2025//
+/Makefile.libcody/1.2/Sun Sep  7 04:12:28 2025//
+/Makefile.libcpp/1.11/Mon Sep  8 03:01:27 2025//
+/Makefile.libdecnumber/1.11/Mon Sep  8 03:01:27 2025//
+/Makefile.libiberty/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.options/1.9/Mon Sep  8 03:01:27 2025//
+/Makefile.prog/1.3/Mon Sep  8 03:01:27 2025//
+/Makefile.target-defines/1.6/Mon Sep  8 03:01:27 2025//
+/rs6000-inc.mk/1.2/Sun Sep  7 04:12:28 2025//
+D/libcody////
+/Makefile/1.14/Tue Oct 21 03:01:03 2025//
+/Makefile.inc/1.17/Tue Oct 21 03:01:03 2025//

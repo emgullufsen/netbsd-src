@@ -1,0 +1,37 @@
+D/monitoring////
+D/stats////
+/README/1.1.1.2/Sat Dec 28 03:01:51 2013//
+/invoke-plot_summary.menu/1.1.1.1/Fri Dec 27 23:31:08 2013//
+/invoke-summary.menu/1.1.1.1/Fri Dec 27 23:31:08 2013//
+/plot_summary.texi/1.1.1.1/Fri Dec 27 23:31:08 2013//
+/summary.texi/1.1.1.1/Fri Dec 27 23:31:08 2013//
+D/build////
+D/calc_tickadj////
+D/deprecated////
+D/lib////
+D/ntp-wait////
+D/ntpsweep////
+D/ntptrace////
+D/rc////
+/summary-opts.def/1.1.1.2/Sat Dec 20 03:02:30 2014//
+D/update-leap////
+/plot_summary-opts.def/1.1.1.3/Sat Jun  4 03:00:42 2016//
+/Makefile.am/1.1.1.6/Mon Aug 19 03:01:05 2024//
+/Makefile.in/1.1.1.13/Mon Aug 19 03:01:05 2024//
+/invoke-plot_summary.texi/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/invoke-summary.texi/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/ntpver.in/1.1.1.3/Mon Aug 19 03:01:05 2024//
+/plot_summary-opts/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/plot_summary.1plot_summaryman/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/plot_summary.1plot_summarymdoc/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/plot_summary.html/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/plot_summary.in/1.4/Mon Aug 19 03:01:05 2024//
+/plot_summary.man.in/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/plot_summary.mdoc.in/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/summary-opts/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/summary.1summaryman/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/summary.1summarymdoc/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/summary.html/1.1.1.15/Mon Aug 19 03:01:05 2024//
+/summary.in/1.4/Mon Aug 19 03:01:06 2024//
+/summary.man.in/1.1.1.15/Mon Aug 19 03:01:06 2024//
+/summary.mdoc.in/1.1.1.15/Mon Aug 19 03:01:06 2024//

@@ -1,0 +1,12 @@
+A D/gnattools////
+A D/gotools////
+A D/libhsail-rt////
+A D/libitm////
+A D/libmudflap////
+A D/zlib////
+R D/zlib////
+R D/libmudflap////
+R D/libitm////
+R D/libhsail-rt////
+R D/gotools////
+R D/gnattools////

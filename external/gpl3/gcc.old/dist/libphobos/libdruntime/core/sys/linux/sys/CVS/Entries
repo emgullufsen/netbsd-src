@@ -1,0 +1,13 @@
+/auxv.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/eventfd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/file.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/inotify.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/mman.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/prctl.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/procfs.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/signalfd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/socket.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/sysinfo.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/time.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/xattr.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+D

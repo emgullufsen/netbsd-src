@@ -1,0 +1,13 @@
+/fpu_arith.h/1.6/Sat Dec 24 20:07:32 2005//
+/fpu.c/1.29/Sat Mar  2 03:01:30 2019//
+/fpu_add.c/1.7/Mon Aug 29 03:01:28 2022//
+/fpu_compare.c/1.7/Mon Aug 29 03:01:28 2022//
+/fpu_div.c/1.6/Mon Aug 29 03:01:28 2022//
+/fpu_emu.h/1.8/Mon Aug 29 03:01:28 2022//
+/fpu_explode.c/1.13/Mon Aug 29 03:01:28 2022//
+/fpu_implode.c/1.14/Mon Aug 29 03:01:28 2022//
+/fpu_mul.c/1.6/Mon Aug 29 03:01:28 2022//
+/fpu_sqrt.c/1.7/Mon Aug 29 03:01:28 2022//
+/fpu_extern.h/1.11/Tue Aug 30 03:01:27 2022//
+/fpu_subr.c/1.8/Tue Aug 30 03:01:27 2022//
+D

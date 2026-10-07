@@ -1,0 +1,21 @@
+/domain.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/nameserver-v4.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/nameserver-v6-scoped.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/nameserver-v6.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-attempts.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-bad-ndots.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-debug.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-empty.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-ndots.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-timeout.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options-unknown.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/options.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/port.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/resolv.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/search.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/sortlist-v4.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/timeout.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/unknown+search.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/unknown-with-value.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+/unknown-without-value.conf/1.1.1.1/Wed May 21 14:41:03 2025//
+D

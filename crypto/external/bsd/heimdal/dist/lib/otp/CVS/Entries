@@ -1,0 +1,18 @@
+/ChangeLog/1.1.1.1/Wed Apr 13 18:15:39 2011//
+/NTMakefile/1.1.1.1/Wed Apr 13 18:15:39 2011//
+/version-script.map/1.1.1.1/Wed Apr 13 18:15:40 2011//
+/Makefile.am/1.1.1.4/Sun Jan 29 03:00:20 2017//
+/otp.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp.h/1.2/Sun Jan 29 03:00:20 2017//
+/otp_challenge.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp_db.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp_locl.h/1.2/Sun Jan 29 03:00:20 2017//
+/otp_md.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp_md.h/1.2/Sun Jan 29 03:00:20 2017//
+/otp_parse.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp_print.c/1.2/Sun Jan 29 03:00:20 2017//
+/otp_verify.c/1.2/Sun Jan 29 03:00:20 2017//
+/otptest.c/1.2/Sun Jan 29 03:00:20 2017//
+/roken_rename.h/1.2/Sun Jan 29 03:00:20 2017//
+/Makefile.in/1.1.1.2/Tue Jun 20 03:00:22 2023//
+D

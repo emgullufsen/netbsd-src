@@ -1,0 +1,6 @@
+A D/fdboot////
+A D/sdboot////
+A D/usr.sbin////
+R D/usr.sbin////
+R D/sdboot////
+R D/fdboot////

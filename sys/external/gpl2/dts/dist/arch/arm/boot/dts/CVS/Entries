@@ -1,0 +1,48 @@
+/cros-ec-sbs.dtsi/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/armv7-m.dtsi/1.1.1.2/Fri Dec  1 03:01:13 2017//
+/cros-adc-thermistors.dtsi/1.1.1.2/Sat Jan  4 03:02:27 2020//
+/tps6507x.dtsi/1.1.1.2/Sat Jan  4 03:02:32 2020//
+/tps65217.dtsi/1.1.1.3/Sat Jan  4 03:02:32 2020//
+/tps65910.dtsi/1.1.1.2/Sat Jan  4 03:02:32 2020//
+/cros-ec-keyboard.dtsi/1.1.1.3/Mon Nov  8 03:01:56 2021//
+/Makefile/1.3/Mon Jan 19 03:01:53 2026//
+D/actions////
+D/airoha////
+D/allwinner////
+D/alphascale////
+D/amazon////
+D/amlogic////
+D/arm////
+D/aspeed////
+D/axis////
+D/broadcom////
+D/calxeda////
+D/cirrus////
+D/cnxt////
+D/gemini////
+D/hisilicon////
+D/hpe////
+D/intel////
+D/marvell////
+D/mediatek////
+D/microchip////
+D/moxa////
+D/nspire////
+D/nuvoton////
+D/nvidia////
+D/nxp////
+D/qcom////
+D/realtek////
+D/renesas////
+D/rockchip////
+D/samsung////
+D/sigmastar////
+D/socionext////
+D/st////
+D/sunplus////
+D/synaptics////
+D/ti////
+D/unisoc////
+D/vt8500////
+D/xen////
+D/xilinx////

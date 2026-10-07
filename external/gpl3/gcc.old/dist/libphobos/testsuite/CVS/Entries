@@ -1,0 +1,25 @@
+D/config////
+D/lib////
+D/libphobos.aa////
+D/libphobos.allocations////
+D/libphobos.cycles////
+D/libphobos.druntime////
+D/libphobos.druntime_shared////
+D/libphobos.exceptions////
+D/libphobos.hash////
+D/libphobos.init_fini////
+D/libphobos.phobos////
+D/libphobos.phobos_shared////
+D/libphobos.shared////
+D/libphobos.thread////
+D/libphobos.typeinfo////
+/Makefile.am/1.1.1.3/Mon Sep  8 03:01:21 2025//
+/Makefile.in/1.1.1.3/Mon Sep  8 03:01:21 2025//
+/testsuite_flags.in/1.1.1.3/Mon Sep  8 03:01:21 2025//
+D/libphobos.betterc////
+D/libphobos.config////
+D/libphobos.gc////
+D/libphobos.imports////
+D/libphobos.lifetime////
+D/libphobos.traits////
+D/libphobos.unittest////

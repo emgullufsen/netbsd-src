@@ -1,0 +1,23 @@
+/sdp-int.h/1.1/Tue May 12 10:05:06 2009//
+/sdp_match.c/1.1/Tue May 12 10:05:06 2009//
+/sdp_record.c/1.1/Tue May 12 10:05:06 2009//
+/sdp_uuid.c/1.1/Tue May 12 10:05:06 2009//
+/sdp_compat.c/1.2/Fri May 15 03:04:03 2009//
+/Makefile/1.5/Tue Aug  4 03:02:13 2009//
+/shlib_version/1.5/Tue Aug  4 03:02:13 2009//
+/sdp_session.c/1.3/Sun Nov 14 03:05:04 2010//
+/sdp_service.c/1.4/Sun Nov 21 03:01:38 2010//
+/sdp_get.c/1.3/Tue Apr  5 03:01:15 2011//
+/sdp_set.c/1.4/Wed Apr  6 03:01:33 2011//
+/sdp_put.c/1.6/Sun Apr 17 03:01:38 2011//
+/bluetooth.h/1.5/Tue Nov 29 03:03:39 2011//
+/sdp_data.c/1.4/Fri Mar 23 03:02:15 2012//
+/bt_dev.3/1.4/Sat Jan 23 03:00:56 2016//
+/sdp_data.3/1.10/Tue Jul  4 03:01:11 2017//
+/sdp.h/1.3/Wed Apr 20 03:01:24 2022//
+/bluetooth.3/1.10/Sun Dec  4 03:01:23 2022//
+/bt_dev.c/1.5/Sun Jun 25 03:01:28 2023//
+/bluetooth.c/1.2/Wed Jun 19 03:01:38 2024//
+/sdp.3/1.5/Mon Oct 14 03:01:19 2024//
+/bluetooth.expsym/1.1/Thu Nov 21 19:38:10 2024//
+D

@@ -1,0 +1,59 @@
+D/algorithm////
+D/container////
+D/datetime////
+D/digest////
+D/experimental////
+D/internal////
+D/net////
+D/range////
+D/regex////
+D/windows////
+/array.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/ascii.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/base64.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/bigint.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/bitmanip.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/checkedint.d/1.1.1.1/Sun Sep  7 02:59:18 2025//
+/compiler.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/complex.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/concurrency.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/conv.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/csv.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/demangle.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/encoding.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/exception.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/file.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/functional.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/getopt.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/int128.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/json.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/mathspecial.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/meta.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/mmfile.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/numeric.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/outbuffer.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/package.d/1.1.1.1/Sun Sep  7 02:59:18 2025//
+/parallelism.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/path.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/process.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/random.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/signals.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/socket.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/stdint.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/stdio.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/string.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/sumtype.d/1.1.1.1/Sun Sep  7 02:59:18 2025//
+/system.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/traits.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/typecons.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/typetuple.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/uri.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/utf.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/uuid.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/variant.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/xml.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+/zip.d/1.1.1.3/Mon Sep  8 03:01:20 2025//
+/zlib.d/1.1.1.2/Mon Sep  8 03:01:20 2025//
+D/format////
+D/math////
+D/uni////

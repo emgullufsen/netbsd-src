@@ -1,0 +1,11 @@
+/Makefile/1.1/Sat Aug 19 22:56:44 2023//
+/h_common.sh/1.1/Sat Aug 19 22:56:44 2023//
+/h_inotify_directory.c/1.1/Sat Aug 19 22:56:44 2023//
+/h_inotify_init.c/1.1/Sat Aug 19 22:56:44 2023//
+/h_inotify_single_file.c/1.1/Sat Aug 19 22:56:44 2023//
+/h_inotify_watch_change.c/1.1/Sat Aug 19 22:56:44 2023//
+/h_linux.c/1.1/Sat Aug 19 22:56:44 2023//
+/h_not_supported.sh/1.1/Sat Aug 19 22:56:44 2023//
+/t_inotify.sh/1.1/Sat Aug 19 22:56:44 2023//
+D/arch////
+/h_linux.h/1.2/Thu Aug 24 03:01:31 2023//

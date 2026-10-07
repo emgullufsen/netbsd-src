@@ -1,0 +1,10 @@
+A D/dec_label////
+A D/installboot////
+A D/lib////
+A D/libsa////
+A D/scsiboot////
+R D/scsiboot////
+R D/libsa////
+R D/lib////
+R D/installboot////
+R D/dec_label////

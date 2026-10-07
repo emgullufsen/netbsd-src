@@ -1,0 +1,33 @@
+D/libc////
+D/libevent////
+D/semaphore////
+D/libposix////
+D/libprop////
+D/libpthread////
+D/librt////
+D/libskey////
+D/libutil////
+D/csu////
+D/libobjc////
+D/libdes////
+/Makefile.inc/1.1/Wed Nov  3 16:10:21 2010//
+D/libm////
+D/librumphijack////
+D/librumpclient////
+D/libbluetooth////
+D/libcurses////
+D/libppath////
+D/libtre////
+D/libcrypt////
+D/libexecinfo////
+D/libsljit////
+D/libbpfjit////
+D/libusbhid////
+D/librefuse////
+D/libnvmm////
+D/libarchive////
+D/libi386////
+D/libossaudio////
+D/lua////
+D/libstdc++////
+/Makefile/1.38/Mon Dec 29 03:01:41 2025//

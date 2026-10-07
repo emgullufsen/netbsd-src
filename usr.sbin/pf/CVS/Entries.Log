@@ -1,0 +1,8 @@
+A D/spamd////
+A D/spamd-setup////
+A D/spamdb////
+A D/spamlogd////
+R D/spamlogd////
+R D/spamdb////
+R D/spamd-setup////
+R D/spamd////

@@ -1,0 +1,26 @@
+/fpu_arith_proto.h/1.2/Sat Mar 14 14:46:01 2009//
+/fpu_getexp.c/1.5/Tue Jul 19 03:01:30 2011//
+/fpu_int.c/1.12/Wed Mar 20 03:04:23 2013//
+/fpu_add.c/1.9/Wed Mar 27 03:03:42 2013//
+/fpu_fmovecr.c/1.16/Wed Mar 27 03:03:42 2013//
+/fpu_implode.c/1.15/Wed Mar 27 03:03:42 2013//
+/fpu_arith.h/1.8/Tue Apr  2 03:02:59 2013//
+/fpu_subr.c/1.12/Sun Apr 21 03:01:42 2013//
+/fpu_div.c/1.10/Fri Jan  3 03:03:04 2014//
+/fpu_log.c/1.18/Sun Jan  5 03:04:35 2014//
+/fpu_hyperb.c/1.17/Tue Dec  6 03:01:07 2016//
+/fpu_cordic.c/1.4/Wed Dec  7 03:01:16 2016//
+/fpu_emulate.h/1.26/Wed Dec  7 03:01:16 2016//
+/fpu_mul.c/1.9/Wed Dec  7 03:01:16 2016//
+/fpu_exp.c/1.11/Mon Jan 16 03:01:07 2017//
+/fpu_trig.c/1.18/Tue Jan 17 03:00:58 2017//
+/fpu_explode.c/1.16/Tue Mar  9 03:01:55 2021//
+/README/1.7/Sun Aug 22 03:01:57 2021//
+/fpu_sqrt.c/1.9/Wed May 25 03:01:21 2022//
+/fpu_rem.c/1.18/Mon Nov 20 03:01:36 2023//
+/fpu_calcea.c/1.28/Sun Dec 29 03:01:42 2024//
+/fpu_emulate.c/1.49/Tue Jan  7 03:01:41 2025//
+/fpu_fscale.c/1.17/Tue Jan  7 03:01:41 2025//
+/fpu_fstore.c/1.17/Tue Jan  7 03:01:41 2025//
+/files.fpe/1.4/Mon Mar 30 03:01:49 2026//
+D

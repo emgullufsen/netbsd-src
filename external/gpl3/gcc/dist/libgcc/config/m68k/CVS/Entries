@@ -1,0 +1,11 @@
+/t-linux/1.1.1.1/Sat Mar  1 08:41:47 2014//
+/t-netbsd-m68010/1.1/Sat Mar  1 09:26:01 2014//
+/t-slibgcc-elf-ver/1.1.1.1/Sat Mar  1 08:41:47 2014//
+/t-floatlib/1.2/Mon Jun 30 03:05:24 2014//
+/crti.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/crtn.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/lb1sf68.S/1.11/Sun Sep 14 03:01:13 2025//
+/linux-atomic.c/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/linux-unwind.h/1.1.1.13/Sun Sep 14 03:01:13 2025//
+/fpgnulib.c/1.9/Wed Oct  8 03:00:55 2025//
+D

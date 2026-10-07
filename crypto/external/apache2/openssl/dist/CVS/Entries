@@ -1,0 +1,51 @@
+/ACKNOWLEDGEMENTS.md/1.1.1.1/Thu Jul 17 13:51:08 2025//
+/AUTHORS.md/1.1.1.1/Thu Jul 17 13:51:08 2025//
+/CODE-OF-CONDUCT.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/HACKING.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/INSTALL.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/LICENSE.txt/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-ANDROID.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-ANSI.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-DJGPP.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-PERL.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-POSIX.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-UNIX.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-VALGRIND.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/NOTES-VMS.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/README-ENGINES.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/README-FIPS.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/README-PROVIDERS.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/README-QUIC.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/SUPPORT.md/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/config/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/config.com/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/configdata.pm.in/1.1.1.1/Thu Jul 17 13:51:09 2025//
+/funding.json/1.1.1.1/Thu Jul 17 13:51:09 2025//
+D/.ctags.d////
+D/Configurations////
+D/VMS////
+D/apps////
+D/crypto////
+D/demos////
+D/doc////
+D/engines////
+D/exporters////
+D/external////
+D/fuzz////
+D/include////
+D/ms////
+D/os-dep////
+D/providers////
+D/ssl////
+D/test////
+D/tools////
+D/util////
+/NOTES-NONSTOP.md/1.1.1.2/Wed Jan 28 03:00:19 2026//
+/NOTES-WINDOWS.md/1.1.1.2/Wed Jan 28 03:00:19 2026//
+/README.md/1.1.1.2/Wed Jan 28 03:00:19 2026//
+/CONTRIBUTING.md/1.1.1.3/Thu Apr  9 03:00:20 2026//
+/build.info/1.1.1.2/Thu Apr  9 03:00:20 2026//
+/CHANGES.md/1.1.1.4/Wed Jun 10 03:00:19 2026//
+/Configure/1.1.1.2/Wed Jun 10 03:00:19 2026//
+/NEWS.md/1.1.1.4/Wed Jun 10 03:00:19 2026//
+/VERSION.dat/1.1.1.4/Wed Jun 10 03:00:19 2026//

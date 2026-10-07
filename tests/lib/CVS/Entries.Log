@@ -1,0 +1,6 @@
+A D/common////
+A D/libpthread_dbg////
+A D/sljit////
+R D/sljit////
+R D/libpthread_dbg////
+R D/common////

@@ -1,0 +1,19 @@
+/aicasm.h/1.4/Sun Dec 11 12:22:18 2005//
+/aicasm_insformat.h/1.1/Sat Apr 19 19:26:11 2003//
+/aicasm_macro_scan.l/1.3/Sun Dec 11 12:22:18 2005//
+/aic79xx_reg.h/1.12/Sun Jun 28 03:01:44 2020//
+/aicasm_scan.l/1.6/Sun Jun 28 03:01:44 2020//
+/Makefile/1.9/Tue Jun 30 03:01:55 2020//
+/aic79xx_seq.h/1.13/Tue Oct 26 03:01:56 2021//
+/aic7xxx_reg.h/1.6/Tue Oct 26 03:01:56 2021//
+/aic7xxx_seq.h/1.15/Tue Oct 26 03:01:56 2021//
+/aicasm_gram.y/1.9/Tue Oct 26 03:01:56 2021//
+/aicasm_symbol.c/1.9/Wed May 25 03:01:24 2022//
+/aicasm_symbol.h/1.4/Wed May 25 03:01:24 2022//
+/aicasm_macro_gram.y/1.4/Sun Feb 11 03:01:32 2024//
+/aic7xxx.reg/1.8/Tue Aug 19 03:01:25 2025//
+/aic79xx.seq/1.19/Thu Jan  1 03:01:47 2026//
+/aicasm.c/1.15/Sun Mar 15 03:02:29 2026//
+/aic79xx.reg/1.19/Fri Jun 12 03:01:43 2026//
+/aic7xxx.seq/1.25/Fri Jun 12 03:01:43 2026//
+D

@@ -1,0 +1,20 @@
+/Copyright/1.1.1.1/Fri May 11 22:51:29 2001//
+/RATIONALE/1.1.1.1/Mon Apr 29 18:24:29 2002//
+/Makefile.in/1.1.1.10/Sat Sep  6 03:01:21 2025//
+/config.c/1.4/Sat Sep  6 03:01:21 2025//
+/context.c/1.4/Sat Sep  6 03:01:21 2025//
+/escapemap.c/1.2/Fri Sep  5 21:16:23 2025//
+/info.c/1.4/Sat Sep  6 03:01:21 2025//
+/ldapmap.c/1.4/Sat Sep  6 03:01:21 2025//
+/map.c/1.4/Sat Sep  6 03:01:21 2025//
+/params.c/1.4/Sat Sep  6 03:01:21 2025//
+/parse.c/1.4/Sat Sep  6 03:01:21 2025//
+/rewrite-int.h/1.4/Sat Sep  6 03:01:21 2025//
+/rewrite-map.h/1.4/Sat Sep  6 03:01:21 2025//
+/rewrite.c/1.4/Sat Sep  6 03:01:21 2025//
+/rule.c/1.4/Sat Sep  6 03:01:21 2025//
+/session.c/1.8/Sat Sep  6 03:01:21 2025//
+/subst.c/1.4/Sat Sep  6 03:01:21 2025//
+/var.c/1.4/Sat Sep  6 03:01:21 2025//
+/xmap.c/1.4/Sat Sep  6 03:01:21 2025//
+D

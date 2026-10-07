@@ -1,0 +1,19 @@
+/qmgr_enable.c/1.1.1.1/Tue Jun 23 10:08:52 2009//
+/qmgr_move.c/1.1.1.1/Tue Jun 23 10:08:53 2009//
+/qmgr_scan.c/1.1.1.1/Tue Jun 23 10:08:53 2009//
+/qmgr_job.c/1.2/Tue Feb 14 03:00:55 2017//
+/qmgr_peer.c/1.2/Tue Feb 14 03:00:55 2017//
+/qmgr_queue.c/1.2/Tue Feb 14 03:00:55 2017//
+/qmgr_transport.c/1.2/Tue Feb 14 03:00:55 2017//
+/qmgr_error.c/1.2/Thu Mar 19 03:01:37 2020//
+/qmgr_feedback.c/1.2/Sun Oct  9 03:01:11 2022//
+/qmgr.h/1.4/Wed Feb 26 03:01:03 2025//
+/qmgr_active.c/1.4/Wed Feb 26 03:01:03 2025//
+/qmgr_deliver.c/1.4/Wed Feb 26 03:01:03 2025//
+/qmgr_entry.c/1.4/Wed Feb 26 03:01:03 2025//
+/Makefile.in/1.1.1.7/Mon May 11 03:01:30 2026//
+/qmgr.c/1.5/Mon May 11 03:01:30 2026//
+/qmgr_bounce.c/1.2/Mon May 11 03:01:30 2026//
+/qmgr_defer.c/1.2/Mon May 11 03:01:30 2026//
+/qmgr_message.c/1.6/Mon May 11 03:01:30 2026//
+D

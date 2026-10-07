@@ -1,0 +1,10 @@
+A D/atf////
+A D/examples////
+A D/syscall////
+A D/toolchain////
+A D/util////
+R D/util////
+R D/toolchain////
+R D/syscall////
+R D/examples////
+R D/atf////

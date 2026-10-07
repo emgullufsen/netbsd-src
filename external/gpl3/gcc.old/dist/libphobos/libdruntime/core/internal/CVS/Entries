@@ -1,0 +1,22 @@
+/abort.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/atomic.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/attributes.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/convert.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/dassert.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/destruction.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/entrypoint.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/hash.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/lifetime.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/moving.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/parseoptions.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/postblit.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/qsort.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/spinlock.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/string.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/switch_.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/traits.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+/utf.d/1.1.1.1/Sun Sep  7 02:59:17 2025//
+D/array////
+D/container////
+D/gc////
+D/util////

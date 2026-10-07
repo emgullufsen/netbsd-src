@@ -1,0 +1,19 @@
+/compress-file-to-dir-without-write-perm.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-file-to-dir-without-write-perm.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-file-to-file.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-file-to-file.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-file-to-stdout.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-file-to-stdout.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-stdin-to-file.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-stdin-to-file.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-stdin-to-stdout.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/compress-stdin-to-stdout.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-file-to-file.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-file-to-file.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-file-to-stdout.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-file-to-stdout.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-stdin-to-file.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-stdin-to-file.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-stdin-to-stdout.sh/1.1.1.1/Sun Oct 27 22:44:14 2024//
+/decompress-stdin-to-stdout.sh.stderr.exact/1.1.1.1/Sun Oct 27 22:44:14 2024//
+D

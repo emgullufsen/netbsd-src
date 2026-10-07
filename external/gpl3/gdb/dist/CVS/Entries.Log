@@ -1,0 +1,14 @@
+A D/binutils////
+A D/cgen////
+A D/elfcpp////
+A D/gas////
+A D/gold////
+A D/gprof////
+A D/intl////
+R D/intl////
+R D/gprof////
+R D/gold////
+R D/gas////
+R D/elfcpp////
+R D/cgen////
+R D/binutils////

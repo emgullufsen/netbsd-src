@@ -1,0 +1,14 @@
+A D/bigtest////
+A D/optional////
+A D/pkcs11////
+A D/startperf////
+A D/testdata////
+A D/virtual-time////
+A D/win32////
+R D/win32////
+R D/virtual-time////
+R D/testdata////
+R D/startperf////
+R D/pkcs11////
+R D/optional////
+R D/bigtest////

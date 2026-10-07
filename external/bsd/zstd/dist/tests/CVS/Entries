@@ -1,0 +1,40 @@
+/DEPRECATED-test-zstd-speed.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/README.md/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/automated_benchmarking.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/checkTag.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/check_size.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/datagencli.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/external_matchfinder.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/external_matchfinder.h/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/invalidDictionaries.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/legacy.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/libzstd_builds.sh/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/longmatch.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/loremOut.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/loremOut.h/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/poolTests.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/rateLimiter.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/roundTripCrash.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/seqgen.c/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/seqgen.h/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/test-license.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/test-variants.sh/1.1.1.1/Sun Oct 27 22:44:13 2024//
+/test-zstd-versions.py/1.1.1.1/Sun Oct 27 22:44:13 2024//
+D/cli-tests////
+D/dict-files////
+D/fuzz////
+D/golden-compression////
+D/golden-decompression////
+D/golden-decompression-errors////
+D/golden-dictionaries////
+D/gzip////
+D/regression////
+/Makefile/1.1.1.2/Sat May  2 03:01:20 2026//
+/bigdict.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/decodecorpus.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/fullbench.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/fuzzer.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/largeDictionary.c/1.1.1.1/Fri May  1 14:27:26 2026//
+/paramgrill.c/1.1.1.2/Sat May  2 03:01:20 2026//
+/playTests.sh/1.1.1.2/Sat May  2 03:01:20 2026//
+/zstreamtest.c/1.1.1.2/Sat May  2 03:01:20 2026//

@@ -1,0 +1,14 @@
+/build.info/1.1.1.1/Sun May  7 18:29:30 2023//
+/decode_epki2pki.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/decode_pem2der.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/decode_spki2typespki.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/encode_key2blob.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/encode_key2ms.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/endecoder_common.c/1.1.1.1/Sun May  7 18:29:30 2023//
+/endecoder_local.h/1.1.1.1/Sun May  7 18:29:30 2023//
+/decode_msblob2key.c/1.1.1.2/Thu Oct 26 03:00:23 2023//
+/decode_pvk2key.c/1.1.1.2/Thu Oct 26 03:00:23 2023//
+/encode_key2any.c/1.1.1.3/Wed Jun 12 03:00:19 2024//
+/decode_der2key.c/1.1.1.3/Mon Sep  9 03:00:20 2024//
+/encode_key2text.c/1.3/Thu Apr 17 03:00:20 2025//
+D

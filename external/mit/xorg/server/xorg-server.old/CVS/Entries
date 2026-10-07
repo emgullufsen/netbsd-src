@@ -1,0 +1,32 @@
+D/XTrap////
+D/Xext////
+D/Xi////
+D/afb////
+D/cfb////
+D/cfb32////
+D/composite////
+D/config////
+D/damageext////
+D/dbe////
+D/dix////
+D/doc////
+D/exa////
+D/fb////
+D/glx////
+D/hw////
+D/include////
+D/mfb////
+D/mi////
+D/miext////
+D/os////
+D/randr////
+D/record////
+D/render////
+D/xfixes////
+D/xkb////
+D/xkbstubs////
+/Makefile/1.2/Sat Aug 20 03:01:05 2016//
+/Makefile.common/1.4/Fri Jul 24 03:01:28 2020//
+/Makefile.Xserver/1.3/Tue Nov  2 03:01:35 2021//
+/Makefile.serverlib/1.5/Tue Nov  2 03:01:35 2021//
+/Makefile.servermod/1.7/Sun Jan 28 03:01:15 2024//

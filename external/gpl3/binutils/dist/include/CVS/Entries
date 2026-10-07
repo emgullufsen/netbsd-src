@@ -1,0 +1,82 @@
+/COPYING/1.1.1.1/Tue Aug 18 09:48:46 2009//
+/COPYING3/1.1.1.1/Tue Aug 18 09:48:47 2009//
+D/aout////
+D/coff////
+D/elf////
+D/gdb////
+D/opcode////
+D/cgen////
+D/som////
+D/vms////
+/xregex.h/1.1.1.2/Mon Sep 30 03:06:11 2013//
+D/mach-o////
+/ChangeLog-9103/1.1.1.3/Sat Jan 30 03:00:48 2016//
+/ChangeLog-0415/1.1.1.1/Wed Oct 26 17:30:15 2016//
+/ChangeLog-2016/1.1.1.1/Sat Apr 14 22:18:48 2018//
+/ChangeLog-2017/1.1.1.1/Sat Apr 14 22:18:48 2018//
+/ChangeLog-2018/1.1.1.1/Fri Apr  3 23:39:40 2020//
+/ChangeLog-2019/1.1.1.1/Fri Apr  3 23:39:40 2020//
+/ChangeLog-2020/1.1.1.1/Fri Dec 23 19:00:49 2022//
+D/sim////
+/ChangeLog/1.7/Thu Feb 12 03:01:20 2026//
+/MAINTAINERS/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/alloca-conf.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/ansidecl.h/1.1.1.12/Thu Feb 12 03:01:20 2026//
+/bfdlink.h/1.13/Thu Feb 12 03:01:20 2026//
+/binary-io.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/collectorAPI.h/1.1.1.4/Thu Feb 12 03:01:20 2026//
+/ctf-api.h/1.1.1.5/Thu Feb 12 03:01:20 2026//
+/ctf.h/1.1.1.5/Thu Feb 12 03:01:20 2026//
+/demangle.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/diagnostics.h/1.1.1.6/Thu Feb 12 03:01:20 2026//
+/dis-asm.h/1.12/Thu Feb 12 03:01:20 2026//
+/doubly-linked-list.h/1.1.1.2/Thu Feb 12 03:01:20 2026//
+/dwarf2.def/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/dwarf2.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/dyn-string.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/environ.h/1.1.1.7/Thu Feb 12 03:01:20 2026//
+/fibheap.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/filenames.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/floatformat.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/fnmatch.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/fopen-bin.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/fopen-same.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/fopen-vms.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/gcc-c-fe.def/1.1.1.8/Thu Feb 12 03:01:20 2026//
+/gcc-c-interface.h/1.1.1.8/Thu Feb 12 03:01:20 2026//
+/gcc-cp-fe.def/1.1.1.6/Thu Feb 12 03:01:20 2026//
+/gcc-cp-interface.h/1.1.1.6/Thu Feb 12 03:01:20 2026//
+/gcc-interface.h/1.1.1.8/Thu Feb 12 03:01:20 2026//
+/getopt.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/hashtab.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/hp-symtab.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/leb128.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/libcollector.h/1.1.1.4/Thu Feb 12 03:01:20 2026//
+/libfcollector.h/1.1.1.4/Thu Feb 12 03:01:20 2026//
+/libiberty.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/longlong.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/lto-symtab.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/md5.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/oasys.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/objalloc.h/1.10/Thu Feb 12 03:01:20 2026//
+/obstack.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/os9k.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/partition.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/plugin-api.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/safe-ctype.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/same-inode.h/1.1.1.1/Wed Feb 11 19:50:22 2026//
+/sframe-api.h/1.1.1.3/Thu Feb 12 03:01:20 2026//
+/sframe-internal.h/1.1.1.2/Thu Feb 12 03:01:20 2026//
+/sframe.h/1.1.1.3/Thu Feb 12 03:01:20 2026//
+/sha1.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/simple-object.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/sort.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/splay-tree.h/1.1.1.12/Thu Feb 12 03:01:20 2026//
+/symcat.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/timeval-utils.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/vtv-change-permission.h/1.1.1.8/Thu Feb 12 03:01:20 2026//
+/xregex2.h/1.1.1.9/Thu Feb 12 03:01:20 2026//
+/xtensa-config.h/1.1.1.11/Thu Feb 12 03:01:20 2026//
+/xtensa-dynconfig.h/1.1.1.3/Thu Feb 12 03:01:20 2026//
+/xtensa-isa-internal.h/1.1.1.10/Thu Feb 12 03:01:20 2026//
+/xtensa-isa.h/1.1.1.10/Thu Feb 12 03:01:20 2026//

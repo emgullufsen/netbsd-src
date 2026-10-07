@@ -1,0 +1,16 @@
+/BUCK/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/module.modulemap/1.1.1.1/Sun Oct 27 22:44:10 2024//
+D/common////
+D/compress////
+D/decompress////
+D/deprecated////
+D/dictBuilder////
+D/dll////
+D/legacy////
+/Makefile/1.1.1.2/Sat May  2 03:01:20 2026//
+/README.md/1.1.1.2/Sat May  2 03:01:20 2026//
+/libzstd.mk/1.1.1.2/Sat May  2 03:01:20 2026//
+/libzstd.pc.in/1.1.1.2/Sat May  2 03:01:20 2026//
+/zdict.h/1.1.1.2/Sat May  2 03:01:20 2026//
+/zstd.h/1.1.1.2/Sat May  2 03:01:20 2026//
+/zstd_errors.h/1.1.1.2/Sat May  2 03:01:20 2026//

@@ -1,0 +1,18 @@
+/syscalls.conf/1.4/Fri Nov  1 21:24:19 2002//
+/ultrix_exec_ecoff.c/1.9/Sun Dec 11 12:20:30 2005//
+/ultrix_flock.h/1.2/Mon Dec 14 00:47:11 2009//
+/Makefile/1.6/Wed Jan 15 03:02:57 2014//
+/ultrix_tty.h/1.4/Mon Sep  7 03:40:36 2015//
+/files.ultrix/1.7/Sun Jan 27 03:01:29 2019//
+/syscalls.master/1.58/Mon Mar  4 03:01:30 2019//
+/ultrix_mod.c/1.6/Mon Mar  4 03:01:30 2019//
+/ultrix_exec.h/1.7/Mon Dec 16 03:02:03 2019//
+/ultrix_fs.c/1.61/Wed Apr  8 03:01:49 2026//
+/ultrix_syscall.h/1.76/Sat Sep 12 03:01:46 2026//
+/ultrix_syscallargs.h/1.71/Sat Sep 12 03:01:46 2026//
+/ultrix_syscalls.c/1.75/Sat Sep 12 03:01:46 2026//
+/ultrix_sysent.c/1.78/Sat Sep 12 03:01:46 2026//
+/ultrix_ioctl.c/1.41/Mon Sep 21 03:01:42 2026//
+/ultrix_misc.c/1.130/Mon Sep 21 03:01:42 2026//
+/ultrix_pathname.c/1.41/Mon Sep 21 03:01:42 2026//
+D

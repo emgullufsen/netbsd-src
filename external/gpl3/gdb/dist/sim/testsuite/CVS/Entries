@@ -1,0 +1,33 @@
+D/common////
+D/config////
+D/lib////
+/ChangeLog-2021/1.1.1.1/Sun Jul 30 22:44:23 2023//
+D/aarch64////
+D/arm////
+D/avr////
+D/bfin////
+D/bpf////
+D/cr16////
+D/cris////
+D/d10v////
+D/example-synacor////
+D/frv////
+D/ft32////
+D/h8300////
+D/iq2000////
+D/lm32////
+D/m32c////
+D/m32r////
+D/m68hc11////
+D/mcore////
+D/microblaze////
+D/mips////
+D/mn10300////
+D/moxie////
+D/msp430////
+D/or1k////
+D/pru////
+D/riscv////
+D/sh////
+D/v850////
+/local.mk/1.1.1.3/Sun Mar 15 03:02:11 2026//

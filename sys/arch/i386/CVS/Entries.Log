@@ -1,0 +1,12 @@
+A D/apm_init////
+A D/bios////
+A D/boot////
+A D/floppy////
+A D/netboot////
+A D/xbox////
+R D/xbox////
+R D/netboot////
+R D/floppy////
+R D/boot////
+R D/bios////
+R D/apm_init////

@@ -1,0 +1,19 @@
+/lber.pc.in/1.1.1.1/Sat Aug 14 16:05:28 2021//
+/Makefile.in/1.1.1.10/Sat Sep  6 03:01:21 2025//
+/assert.c/1.4/Sat Sep  6 03:01:21 2025//
+/bprint.c/1.4/Sat Sep  6 03:01:21 2025//
+/debug.c/1.4/Sat Sep  6 03:01:21 2025//
+/decode.c/1.4/Sat Sep  6 03:01:21 2025//
+/dtest.c/1.4/Sat Sep  6 03:01:21 2025//
+/encode.c/1.4/Sat Sep  6 03:01:21 2025//
+/etest.c/1.4/Sat Sep  6 03:01:21 2025//
+/idtest.c/1.4/Sat Sep  6 03:01:21 2025//
+/io.c/1.4/Sat Sep  6 03:01:21 2025//
+/lber-int.h/1.4/Sat Sep  6 03:01:21 2025//
+/lber.map/1.1.1.1/Fri Sep  5 21:09:32 2025//
+/memory.c/1.4/Sat Sep  6 03:01:21 2025//
+/nt_err.c/1.4/Sat Sep  6 03:01:21 2025//
+/options.c/1.4/Sat Sep  6 03:01:21 2025//
+/sockbuf.c/1.4/Sat Sep  6 03:01:21 2025//
+/stdio.c/1.4/Sat Sep  6 03:01:21 2025//
+D

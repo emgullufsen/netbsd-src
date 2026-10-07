@@ -1,0 +1,17 @@
+/sunos_exec.h/1.11/Wed Nov 19 18:36:05 2008//
+/syscalls.conf/1.5/Fri Nov  1 20:44:43 2002//
+/Makefile/1.7/Sun Mar  8 03:03:19 2015//
+/sunos.h/1.24/Mon Sep  7 03:40:34 2015//
+/sunos_exec_aout.c/1.19/Mon Oct 19 03:16:07 2015//
+/sunos_exec.c/1.57/Sat Aug 11 03:01:25 2018//
+/sunos_dirent.h/1.4/Thu Dec 20 03:01:24 2018//
+/files.sunos/1.11/Wed Feb 13 03:01:31 2019//
+/syscalls.master/1.82/Tue Sep 24 03:01:33 2019//
+/sunos_mod.c/1.7/Thu Dec 12 03:01:53 2019//
+/sunos_syscall.h/1.100/Sat Sep 12 03:01:46 2026//
+/sunos_syscallargs.h/1.84/Sat Sep 12 03:01:46 2026//
+/sunos_syscalls.c/1.99/Sat Sep 12 03:01:46 2026//
+/sunos_sysent.c/1.95/Sat Sep 12 03:01:46 2026//
+/sunos_ioctl.c/1.72/Mon Sep 21 03:01:42 2026//
+/sunos_misc.c/1.178/Mon Sep 21 03:01:42 2026//
+D

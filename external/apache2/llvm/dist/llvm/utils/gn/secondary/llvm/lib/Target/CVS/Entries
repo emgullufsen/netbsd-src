@@ -1,0 +1,20 @@
+/targets_string.gni/1.1.1.1/Fri Nov  8 14:28:11 2019//
+/targets_with_asm_parsers.gni/1.1.1.1/Fri Nov  8 14:28:11 2019//
+/targets_with_disassemblers.gni/1.1.1.1/Fri Nov  8 14:28:11 2019//
+D/AArch64////
+D/AMDGPU////
+D/ARM////
+D/AVR////
+D/BPF////
+D/Hexagon////
+D/Lanai////
+D/Mips////
+D/NVPTX////
+D/PowerPC////
+D/RISCV////
+D/Sparc////
+D/SystemZ////
+D/WebAssembly////
+D/X86////
+/BUILD.gn/1.1.1.2/Sun May 30 03:00:50 2021//
+/targets.gni/1.1.1.2/Sun May 30 03:00:50 2021//

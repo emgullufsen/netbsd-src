@@ -1,0 +1,14 @@
+D/amd64////
+D/dirshack////
+D/mips64////
+D/sparc64////
+D/arm////
+/Makefile.compat/1.9/Fri Aug 24 03:01:34 2012//
+D/powerpc64////
+D/riscv64////
+/compatsubdir.mk/1.13/Sat Jul 25 03:27:22 2015//
+/archdirs.mk/1.14/Tue Jun  8 03:00:18 2021//
+/Makefile/1.7/Mon May 30 03:00:18 2022//
+/exec.mk/1.7/Sun May 14 03:00:20 2023//
+/README/1.9/Mon Feb  5 03:00:21 2024//
+/m32.mk/1.3/Mon Jan 19 03:00:19 2026//

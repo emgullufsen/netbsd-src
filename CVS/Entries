@@ -1,0 +1,30 @@
+D/bin////
+D/crypto////
+D/dist////
+D/distrib////
+D/doc////
+D/etc////
+D/games////
+D/include////
+D/lib////
+D/rescue////
+D/share////
+D/pkgsrc////
+D/xsrc////
+D/common////
+D/external////
+D/compat////
+D/libexec////
+D/regress////
+D/sbin////
+D/sys////
+D/tests////
+D/tools////
+D/usr.bin////
+D/usr.sbin////
+/Makefile.inc/1.6/Thu May  3 03:00:19 2018//
+/README.md/1.9/Mon Sep  6 03:00:19 2021//
+/BUILDING/1.163/Thu Feb 12 03:00:20 2026//
+/Makefile/1.343/Thu Jul  9 03:00:21 2026//
+/UPDATING/1.392/Tue Jul 21 03:00:19 2026//
+/build.sh/1.405/Sun Aug  2 03:00:20 2026//

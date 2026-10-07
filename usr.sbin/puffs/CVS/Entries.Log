@@ -1,0 +1,8 @@
+A D/mount_portal////
+A D/mount_puffs////
+A D/rump_exfatfs////
+A D/rump_smbfs////
+R D/rump_smbfs////
+R D/rump_exfatfs////
+R D/mount_puffs////
+R D/mount_portal////

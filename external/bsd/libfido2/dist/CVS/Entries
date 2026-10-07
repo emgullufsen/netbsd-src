@@ -1,0 +1,14 @@
+D/examples////
+D/fuzz////
+D/man////
+D/openbsd-compat////
+D/regress////
+D/src////
+D/tools////
+D/udev////
+D/windows////
+/CMakeLists.txt/1.1.1.6/Tue Jun  3 03:00:33 2025//
+/LICENSE/1.1.1.4/Tue Jun  3 03:00:33 2025//
+/NEWS/1.1.1.6/Tue Jun  3 03:00:33 2025//
+/README.adoc/1.1.1.6/Tue Jun  3 03:00:33 2025//
+/SECURITY.md/1.1.1.2/Tue Jun  3 03:00:33 2025//

@@ -1,0 +1,12 @@
+A D/ecdh////
+A D/ecdsa////
+A D/jpake////
+A D/krb5////
+A D/pqueue////
+A D/threads////
+R D/threads////
+R D/pqueue////
+R D/krb5////
+R D/jpake////
+R D/ecdsa////
+R D/ecdh////

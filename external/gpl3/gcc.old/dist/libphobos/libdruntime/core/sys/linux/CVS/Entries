@@ -1,0 +1,23 @@
+/config.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/dlfcn.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/elf.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/epoll.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/err.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/errno.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/execinfo.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/fcntl.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/fs.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/ifaddrs.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/io_uring.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/link.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/perf_event.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/sched.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/stdio.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/string.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/termios.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/time.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/timerfd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/tipc.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+/unistd.d/1.1.1.1/Sun Sep  7 02:59:16 2025//
+D/netinet////
+D/sys////

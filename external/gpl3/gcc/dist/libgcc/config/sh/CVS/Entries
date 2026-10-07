@@ -1,0 +1,17 @@
+/libgcc-excl.ver/1.1.1.1/Sat Mar  1 08:41:47 2014//
+/t-linux/1.1.1.2/Sun Mar  2 03:06:10 2014//
+/t-netbsd/1.1.1.1/Sat Mar  1 08:41:47 2014//
+/t-superh/1.1.1.1/Sat Mar  1 08:41:47 2014//
+/crt.h/1.1.1.10/Sun Sep 14 03:01:13 2025//
+/crt1.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/crti.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/crtn.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/lib1funcs-4-300.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/lib1funcs-Os-4-200.S/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/lib1funcs.S/1.1.1.12/Sun Sep 14 03:01:13 2025//
+/lib1funcs.h/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/libgcc-glibc.ver/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/linux-atomic.c/1.1.1.11/Sun Sep 14 03:01:13 2025//
+/linux-unwind.h/1.1.1.13/Sun Sep 14 03:01:13 2025//
+/t-sh/1.1.1.11/Sun Sep 14 03:01:13 2025//
+D

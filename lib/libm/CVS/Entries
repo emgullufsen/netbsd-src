@@ -1,0 +1,36 @@
+D/arch////
+D/compat////
+D/complex////
+D/gen////
+D/man////
+D/noieee_src////
+D/src////
+D/compiler_rt////
+D/softfloat////
+D/ld128////
+D/ld80////
+/shlib_version/1.19/Tue Jan 23 03:01:28 2024//
+/convertFreeBSD/1.1/Wed Jan 24 04:14:07 2024//
+/m.arm.expsym/1.5/Mon Jun 10 03:01:33 2024//
+/m.armhf.expsym/1.3/Mon Jun 10 03:01:33 2024//
+/m.fenv.expsym/1.1/Sun Jun  9 14:10:05 2024//
+/m.riscv.expsym/1.5/Mon Jun 10 03:01:33 2024//
+/m.ieee754.expsym/1.2/Wed Jul 17 03:01:39 2024//
+/m.aarch64.expsym/1.6/Fri Nov 22 03:01:30 2024//
+/m.alpha.expsym/1.5/Fri Nov 22 03:01:30 2024//
+/m.common.expsym/1.3/Fri Nov 22 03:01:30 2024//
+/m.i386.expsym/1.6/Fri Nov 22 03:01:30 2024//
+/m.ia64.expsym/1.5/Fri Nov 22 03:01:30 2024//
+/m.m68k.expsym/1.7/Fri Nov 22 03:01:30 2024//
+/m.mips.expsym/1.7/Fri Nov 22 03:01:30 2024//
+/m.mips64.expsym/1.4/Fri Nov 22 03:01:30 2024//
+/m.mipshf.expsym/1.4/Fri Nov 22 03:01:30 2024//
+/m.powerpc.expsym/1.5/Fri Nov 22 03:01:30 2024//
+/m.sparc.expsym/1.5/Fri Nov 22 03:01:30 2024//
+/m.sparc64.expsym/1.6/Fri Nov 22 03:01:30 2024//
+/m.vax.expsym/1.8/Fri Nov 22 03:01:30 2024//
+/m.x86_64.expsym/1.6/Fri Nov 22 03:01:30 2024//
+/m.sh3.expsym/1.5/Sat Nov 23 03:01:43 2024//
+/m.powerpc64.expsym/1.5/Mon Nov 25 03:01:37 2024//
+/m.hppa.expsym/1.6/Sun Feb 16 03:01:40 2025//
+/Makefile/1.242/Mon Apr  7 03:01:35 2025//

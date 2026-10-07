@@ -1,0 +1,15 @@
+/libgcc-glibc.ver/1.5/Thu Sep 26 08:02:59 2019//
+/t-elf/1.6/Thu Sep 26 08:02:59 2019//
+/t-linux/1.6/Thu Sep 26 08:02:59 2019//
+/t-windowed/1.3/Thu Sep 26 08:02:59 2019//
+/crti.S/1.10/Mon Sep  8 03:01:17 2025//
+/crtn.S/1.10/Mon Sep  8 03:01:17 2025//
+/ieee754-df.S/1.12/Mon Sep  8 03:01:17 2025//
+/ieee754-sf.S/1.12/Mon Sep  8 03:01:17 2025//
+/lib1funcs.S/1.10/Mon Sep  8 03:01:17 2025//
+/lib2funcs.S/1.10/Mon Sep  8 03:01:17 2025//
+/linux-unwind.h/1.12/Mon Sep  8 03:01:17 2025//
+/t-xtensa/1.6/Mon Sep  8 03:01:17 2025//
+/unwind-dw2-xtensa.c/1.11/Mon Sep  8 03:01:17 2025//
+/unwind-dw2-xtensa.h/1.10/Mon Sep  8 03:01:17 2025//
+D

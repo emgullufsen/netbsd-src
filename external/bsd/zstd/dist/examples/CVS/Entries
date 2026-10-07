@@ -1,0 +1,14 @@
+/Makefile/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/README.md/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/common.h/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/dictionary_compression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/dictionary_decompression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/multiple_simple_compression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/multiple_streaming_compression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/simple_compression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/simple_decompression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/streaming_compression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/streaming_compression_thread_pool.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/streaming_decompression.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+/streaming_memory_usage.c/1.1.1.1/Sun Oct 27 22:44:10 2024//
+D

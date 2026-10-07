@@ -1,0 +1,18 @@
+/hmac_sha1.c/1.1/Fri Oct 27 18:22:56 2006//
+/shlib_version/1.6/Mon Jan 12 03:04:21 2009//
+/pw_gensalt.3/1.8/Wed Oct 13 03:01:44 2021//
+/crypt.h/1.8/Sun Oct 17 03:01:49 2021//
+/namespace.h/1.1/Sun May 15 16:25:09 2022//
+/Makefile/1.36/Sun Oct  8 03:01:30 2023//
+/crypt-argon2.c/1.22/Wed Jul 24 03:01:18 2024//
+/crypt-sha1.c/1.11/Wed Jul 24 03:01:18 2024//
+/crypt.c/1.41/Wed Jul 24 03:01:18 2024//
+/hmac.c/1.5/Wed Jul 24 03:01:18 2024//
+/md5crypt.c/1.16/Wed Jul 24 03:01:18 2024//
+/crypt.expsym/1.1/Thu Nov 21 19:46:29 2024//
+/crypt.3/1.37/Tue Nov 18 03:01:42 2025//
+/bcrypt.c/1.23/Thu Jan  1 03:01:43 2026//
+/blowfish.c/1.5/Thu Jan  1 03:01:43 2026//
+/pw_gensalt.c/1.15/Thu Jan  1 03:01:43 2026//
+/util.c/1.4/Thu Jan  1 03:01:43 2026//
+D
