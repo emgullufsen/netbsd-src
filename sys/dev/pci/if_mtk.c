@@ -31,12 +31,12 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
     return 0;
 }
 
+static void
+mtk_attach(device_t parent, device_t self, void *aux){
+    struct iwm_softc *sc = device_private(self);
+	struct pci_attach_args *pa = aux;
+}
+
+
 CFATTACH_DECL_NEW(mtk, sizeof(struct mtk_softc), mtk_match, mtk_attach, 
     mtk_detach, mtk_activate)
-
-CFATTACH_DECL_NEW(mtk,                  /* driver name */
-sizeof(struct mtk_softc),       /* size of instance data */
-mtk_match,                      /* match/probe function */
-mtk_attach,                     /* attach function */
-mtk_detach,                     /* detach function */
-mtk_activate);                  /* activate function */
