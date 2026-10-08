@@ -946,6 +946,11 @@ device	iwm: ifnet, arp, wlan, firmload
 attach	iwm at pci
 file	dev/pci/if_iwm.c		iwm
 
+# Mediatek 7921
+device	mtk: ifnet, arp, wlan, firmload
+attach	mtk at pci
+file	dev/pci/if_mtk.c
+
 # Workbit NinjaSCSI-32 controllers
 # device declaration in sys/conf/files
 attach	njs at pci with njs_pci
