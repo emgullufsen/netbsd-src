@@ -846,6 +846,7 @@ ipw*	at pci? dev ? function ?	# Intel PRO/Wireless 2100
 iwi*	at pci? dev ? function ?	# Intel PRO/Wireless 2200BG
 iwm*	at pci? dev ? function ?	# Intel Centrino 7260
 iwn*	at pci? dev ? function ?	# Intel PRO/Wireless 4965AGN
+mtk*	at pci? dev ? function ?	# Mediatek MT7921
 ixg*	at pci? dev ? function ?	# Intel 8259x 10 gigabit
 ixl*	at pci? dev ? function ?	# Intel Ethernet 700 Series
 ixv*	at pci? dev ? function ?	# Intel 8259x 10G virtual function
