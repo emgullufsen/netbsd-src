@@ -43,7 +43,7 @@
 // #include <dev/pci/pcivar.h>
 // #include <dev/pci/pcidevs.h>
 
-struct foo_softc {
+struct mtk_softc {
                    device_t sc_dev;                /* generic device info */
                    /* device-specific state */
 };
@@ -76,11 +76,11 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
 
 static void
 mtk_attach(device_t parent, device_t self, void *aux){
-    struct iwm_softc *sc = device_private(self);
-	struct pci_attach_args *pa = aux;
-    printf("hey hey hey it's mtk...\n")
+    //struct mtk_softc *sc = device_private(self);
+	//struct pci_attach_args *pa = aux;
+    printf("hey hey hey it's mtk...\n");
 }
 
 
 CFATTACH_DECL_NEW(mtk, sizeof(struct mtk_softc), mtk_match, mtk_attach, 
-    NULL, NULL)
+    NULL, NULL);
