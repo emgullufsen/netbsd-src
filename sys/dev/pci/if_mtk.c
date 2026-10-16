@@ -43,9 +43,15 @@
 // #include <dev/pci/pcivar.h>
 // #include <dev/pci/pcidevs.h>
 
+#define MTK_MMREG_BAR   0x10
+#define PCI_COMMAND		0x04
+
 struct mtk_softc {
-                   device_t sc_dev;                /* generic device info */
-                   /* device-specific state */
+    device_t sc_dev;                /* generic device info */
+    /* device-specific state */
+    bus_space_tag_t sc_regt;
+    bus_space_handle_t sc_regh;
+    bus_addr_t sc_reg_pa;
 };
 
 static int
@@ -76,9 +82,33 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
 
 static void
 mtk_attach(device_t parent, device_t self, void *aux){
-    //struct mtk_softc *sc = device_private(self);
-	//struct pci_attach_args *pa = aux;
-    printf("hey hey hey it's mtk...\n");
+    printf("mtk: hey hey hey...\n");
+    struct mtk_softc *sc = device_private(self);
+	struct pci_attach_args *pa = aux;
+    pcireg_t reg;
+    pci_chipset_tag_t pc = pa->pa_pc;
+    pcitag_t tag = pa->pa_tag;
+    sc->sc_dev = self;
+    printf("below should be another mtk message from pci_aprint_devinfo\n");
+    pci_aprint_devinfo(pa, NULL);
+    // let's do the thing the linux driver does reading from pci mem
+    // pci_read_config_word(pdev, PCI_COMMAND, &cmd);
+	// if (!(cmd & PCI_COMMAND_MEMORY)) {
+	// 	cmd |= PCI_COMMAND_MEMORY;
+	// 	pci_write_config_word(pdev, PCI_COMMAND, cmd);
+	// }
+    // netbsd equivalent using pci_conf_read...
+	reg = pci_conf_read(pc, tag, PCI_COMMAND);
+
+    // map BAR0
+    if (pci_mapreg_map(pa, PCI_BAR0, PCI_MAPREG_TYPE_MEM, 0, 
+            &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, 0) != 0 ) {
+            aprint_error_dev(sc->sc_dev, "mtk: can't map the BAR\n");
+            return;
+    }
+
+    printf("below should be another mtk message from aprint_normal_dev\n");
+    aprint_normal_dev(sc->sc_dev, "mtk: regs at 0x%08x\n", (uint32_t) sc->sc_reg_pa);
 }
 
 
