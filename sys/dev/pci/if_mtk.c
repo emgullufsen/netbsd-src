@@ -99,7 +99,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
 	// }
     // netbsd equivalent using pci_conf_read...
 	reg = pci_conf_read(pc, tag, PCI_COMMAND);
-
+    printf("mtk: reg value: 0x%ux\n", (uint32_t)reg);
     // map BAR0
     if (pci_mapreg_map(pa, PCI_BAR0, PCI_MAPREG_TYPE_MEM, 0, 
             &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, 0) != 0 ) {
