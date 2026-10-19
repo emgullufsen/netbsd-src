@@ -89,6 +89,8 @@ mtk_attach(device_t parent, device_t self, void *aux){
     pci_chipset_tag_t pc = pa->pa_pc;
     pcitag_t tag = pa->pa_tag;
     sc->sc_dev = self;
+    int ret;
+    
     printf("below should be another mtk message from pci_aprint_devinfo\n");
     pci_aprint_devinfo(pa, NULL);
     // let's do the thing the linux driver does reading from pci mem
@@ -110,6 +112,10 @@ mtk_attach(device_t parent, device_t self, void *aux){
 
     printf("below should be another mtk message from aprint_normal_dev\n");
     aprint_normal_dev(sc->sc_dev, "mtk: regs at 0x%08x\n", (uint32_t) sc->sc_reg_pa);
+
+    // alloc irq vectors
+    pci_msix_alloc(const struct pci_attach_args *pa,
+         pci_intr_handle_t **ihps, int *count);
 }
 
 
