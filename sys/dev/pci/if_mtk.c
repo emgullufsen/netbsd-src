@@ -43,15 +43,19 @@
 // #include <dev/pci/pcivar.h>
 // #include <dev/pci/pcidevs.h>
 
+// I am sure I should use another define from higher up under pci/
 #define MTK_MMREG_BAR   0x10
 #define PCI_COMMAND		0x04
 
 struct mtk_softc {
-    device_t sc_dev;                /* generic device info */
-    /* device-specific state */
+    device_t sc_dev;
     bus_space_tag_t sc_regt;
     bus_space_handle_t sc_regh;
     bus_addr_t sc_reg_pa;
+
+    pci_intr_handle_t *sc_pihp;
+    pci_chipset_tag_t sc_pct;
+    void *sc_ih;
 };
 
 static int
@@ -80,6 +84,15 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
     return 0;
 }
 
+// interrupt handler
+static int
+mtk_intr(void *arg)
+{
+	//struct mtk_softc *sc = arg;
+
+	return 1;
+}
+
 static void
 mtk_attach(device_t parent, device_t self, void *aux){
     printf("mtk: hey hey hey...\n");
@@ -89,7 +102,9 @@ mtk_attach(device_t parent, device_t self, void *aux){
     pci_chipset_tag_t pc = pa->pa_pc;
     pcitag_t tag = pa->pa_tag;
     sc->sc_dev = self;
-    int ret;
+    int error;
+    const char *intrstr;
+	char intrbuf[PCI_INTRSTR_LEN];
     
     printf("below should be another mtk message from pci_aprint_devinfo\n");
     pci_aprint_devinfo(pa, NULL);
@@ -114,8 +129,29 @@ mtk_attach(device_t parent, device_t self, void *aux){
     aprint_normal_dev(sc->sc_dev, "mtk: regs at 0x%08x\n", (uint32_t) sc->sc_reg_pa);
 
     // alloc irq vectors
-    pci_msix_alloc(const struct pci_attach_args *pa,
-         pci_intr_handle_t **ihps, int *count);
+    error = pci_intr_alloc(pa, &sc->sc_pihp, NULL, 0);
+	if (error) {
+		aprint_error_dev(self, "can't allocate interrupt\n");
+		return;
+	}
+    
+    intrstr = pci_intr_string(sc->sc_pct, sc->sc_pihp[0], intrbuf,
+	    sizeof(intrbuf));
+	sc->sc_ih = pci_intr_establish_xname(sc->sc_pct, sc->sc_pihp[0],
+	    IPL_NET, mtk_intr, sc, device_xname(self));
+	if (sc->sc_ih == NULL) {
+		aprint_error_dev(self, "can't establish interrupt");
+		if (intrstr != NULL)
+			aprint_error(" at %s", intrstr);
+		aprint_error("\n");
+		goto failia;
+	}
+	aprint_normal_dev(self, "interrupting at %s\n", intrstr);
+    return;
+
+// looks familiar, iwn?
+failia:	pci_intr_release(sc->sc_pct, sc->sc_pihp, 1);
+	sc->sc_pihp = NULL;
 }
 
 
