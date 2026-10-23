@@ -46,6 +46,7 @@
 // I am sure I should use another define from higher up under pci/
 #define MTK_MMREG_BAR   0x10
 #define PCI_COMMAND		0x04
+#define PCI_COMMAND_MEMORY  0x2
 
 struct mtk_softc {
     device_t sc_dev;
@@ -57,6 +58,12 @@ struct mtk_softc {
     pci_chipset_tag_t sc_pct;
     void *sc_ih;
 };
+
+void
+printf_uint32_binary(uint32_t val);
+
+void
+printf_uint16_binary(uint16_t val);
 
 static int
 mtk_match(device_t parent, cfdata_t match, void *aux);
@@ -93,6 +100,34 @@ mtk_intr(void *arg)
 	return 1;
 }
 
+void
+printf_uint32_binary(uint32_t val)
+{
+    char buf[33];
+    int i;
+
+    for (i = 0; i < 32; i++) {
+        buf[i] = (val & __BIT(31 - i)) ? '1' : '0';
+    }
+    buf[32] = '\0';
+
+    printf("Value in binary: %s\n", buf);
+}
+
+void
+printf_uint16_binary(uint16_t val)
+{
+    char buf[17];
+    int i;
+
+    for (i = 0; i < 16; i++) {
+        buf[i] = (val & __BIT(15 - i)) ? '1' : '0';
+    }
+    buf[16] = '\0';
+
+    printf("Value in binary: %s\n", buf);
+}
+
 static void
 mtk_attach(device_t parent, device_t self, void *aux){
     printf("mtk: hey hey hey...\n");
@@ -115,9 +150,32 @@ mtk_attach(device_t parent, device_t self, void *aux){
 	// 	pci_write_config_word(pdev, PCI_COMMAND, cmd);
 	// }
     // netbsd equivalent using pci_conf_read...
-	reg = pci_conf_read(pc, tag, PCI_COMMAND);
-    // but I might need to mask this or something...
+	reg = pci_conf_read(pc, tag, PCI_COMMAND_STATUS_REG);
+    // we need just the lower 16 bits for the command reg (upper is status)
+    uint16_t cmd = reg & 0xffff;
+    
     printf("mtk: reg value: 0x%ux\n", (uint32_t)reg);
+    printf("mtk: printing reg value in binary now...\n");
+    printf_uint32_binary((uint32_t)reg);
+    printf("mtk: printing cmd (lower 16 of reg now)...\n");
+    printf_uint16_binary((uint16_t)cmd);
+    printf("mtk: by the way, PCI_COMMAND_MEMORY in binary is...\n");
+    printf_uint16_binary((uint16_t)PCI_COMMAND_MEMORY);
+    if (!(cmd & PCI_COMMAND_MEMORY)) {
+        printf("mtk: ok we need to write back cmd...\n");
+        cmd |= PCI_COMMAND_MEMORY;
+        reg = (reg & 0xffff0000) | cmd;
+        pci_conf_write(pa->pa_pc, pa->pa_tag, PCI_COMMAND_STATUS_REG, reg);
+	}
+    //ok now lets read back and check...
+    printf("mtk: ok now lets read back and check...\n");
+    reg = pci_conf_read(pc, tag, PCI_COMMAND_STATUS_REG);
+    // we need just the lower 16 bits for the command reg (upper is status)
+    cmd = reg & 0xffff;
+    printf("mtk: re-printing reg value in binary now...\n");
+    printf_uint32_binary((uint32_t)reg);
+    printf("mtk: re-printing cmd (lower 16 of reg now)...\n");
+    printf_uint16_binary((uint16_t)cmd);
     // map BAR0 (physical address) to kernel virtual addr
     if (pci_mapreg_map(pa, PCI_BAR0, PCI_MAPREG_TYPE_MEM, 0, 
             &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, 0) != 0 ) {
