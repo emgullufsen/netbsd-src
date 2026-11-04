@@ -141,15 +141,8 @@ mtk_attach(device_t parent, device_t self, void *aux){
     const char *intrstr;
 	char intrbuf[PCI_INTRSTR_LEN];
     
-    printf("below should be another mtk message from pci_aprint_devinfo\n");
     pci_aprint_devinfo(pa, NULL);
-    // let's do the thing the linux driver does reading from pci mem
-    // pci_read_config_word(pdev, PCI_COMMAND, &cmd);
-	// if (!(cmd & PCI_COMMAND_MEMORY)) {
-	// 	cmd |= PCI_COMMAND_MEMORY;
-	// 	pci_write_config_word(pdev, PCI_COMMAND, cmd);
-	// }
-    // netbsd equivalent using pci_conf_read...
+
 	reg = pci_conf_read(pc, tag, PCI_COMMAND_STATUS_REG);
     // we need just the lower 16 bits for the command reg (upper is status)
     uint16_t cmd = reg & 0xffff;
@@ -161,12 +154,14 @@ mtk_attach(device_t parent, device_t self, void *aux){
     printf_uint16_binary((uint16_t)cmd);
     printf("mtk: by the way, PCI_COMMAND_MEMORY in binary is...\n");
     printf_uint16_binary((uint16_t)PCI_COMMAND_MEMORY);
+
     if (!(cmd & PCI_COMMAND_MEMORY)) {
         printf("mtk: ok we need to write back cmd...\n");
         cmd |= PCI_COMMAND_MEMORY;
         reg = (reg & 0xffff0000) | cmd;
         pci_conf_write(pa->pa_pc, pa->pa_tag, PCI_COMMAND_STATUS_REG, reg);
 	}
+
     //ok now lets read back and check...
     printf("mtk: ok now lets read back and check...\n");
     reg = pci_conf_read(pc, tag, PCI_COMMAND_STATUS_REG);
@@ -176,6 +171,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
     printf_uint32_binary((uint32_t)reg);
     printf("mtk: re-printing cmd (lower 16 of reg now)...\n");
     printf_uint16_binary((uint16_t)cmd);
+
     // map BAR0 (physical address) to kernel virtual addr
     if (pci_mapreg_map(pa, PCI_BAR0, PCI_MAPREG_TYPE_MEM, 0, 
             &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, 0) != 0 ) {
@@ -204,10 +200,10 @@ mtk_attach(device_t parent, device_t self, void *aux){
 		aprint_error("\n");
 		goto failia;
 	}
+    
 	aprint_normal_dev(self, "interrupting at %s\n", intrstr);
     return;
 
-// looks familiar, iwn?
 failia:	pci_intr_release(sc->sc_pct, sc->sc_pihp, 1);
 	sc->sc_pihp = NULL;
 }
