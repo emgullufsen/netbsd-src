@@ -57,6 +57,9 @@ struct mtk_softc {
     pci_intr_handle_t *sc_pihp;
     pci_chipset_tag_t sc_pct;
     void *sc_ih;
+    void *sc_soft_ih;
+
+    struct ieee80211com *sc_ic;
 };
 
 void
@@ -95,8 +98,12 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
 static int
 mtk_intr(void *arg)
 {
-	//struct mtk_softc *sc = arg;
+	struct mtk_softc *sc = arg;
 
+	/* Disable interrupts. */
+	
+
+	softint_schedule(sc->sc_soft_ih);
 	return 1;
 }
 
@@ -133,6 +140,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
     printf("mtk: hey hey hey...\n");
     struct mtk_softc *sc = device_private(self);
 	struct pci_attach_args *pa = aux;
+    struct ieee80211com *ic = &sc->sc_ic;
     pcireg_t reg;
     pci_chipset_tag_t pc = pa->pa_pc;
     pcitag_t tag = pa->pa_tag;
@@ -182,6 +190,13 @@ mtk_attach(device_t parent, device_t self, void *aux){
     printf("below should be another mtk message from aprint_normal_dev\n");
     aprint_normal_dev(sc->sc_dev, "mtk: regs at 0x%08x\n", (uint32_t) sc->sc_reg_pa);
 
+    // establish bottom half
+    sc->sc_soft_ih = softint_establish(SOFTINT_NET, mtk_softintr, sc);
+	if (sc->sc_soft_ih == NULL) {
+		aprint_error_dev(self, "could not establish softint\n");
+		goto unmap;
+	}
+
     // alloc irq vectors
     error = pci_intr_alloc(pa, &sc->sc_pihp, NULL, 0);
 	if (error) {
@@ -200,12 +215,15 @@ mtk_attach(device_t parent, device_t self, void *aux){
 		aprint_error("\n");
 		goto failia;
 	}
-    
+
 	aprint_normal_dev(self, "interrupting at %s\n", intrstr);
     return;
 
 failia:	pci_intr_release(sc->sc_pct, sc->sc_pihp, 1);
 	sc->sc_pihp = NULL;
+failsi:	softint_disestablish(sc->sc_soft_ih);
+	sc->sc_soft_ih = NULL;
+unmap:	bus_space_unmap(sc->sc_st, sc->sc_sh, sc->sc_sz);
 }
 
 
