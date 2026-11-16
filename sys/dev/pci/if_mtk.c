@@ -101,7 +101,7 @@ mtk_intr(void *arg)
 	struct mtk_softc *sc = arg;
 
 	/* Disable interrupts. */
-	
+	// 0xd4000 + 0x204
 
 	softint_schedule(sc->sc_soft_ih);
 	return 1;
