@@ -47,19 +47,21 @@
 #define MTK_MMREG_BAR   0x10
 #define PCI_COMMAND		0x04
 #define PCI_COMMAND_MEMORY  0x2
+#define OFFSET_DIS 0x204
 
 struct mtk_softc {
     device_t sc_dev;
     bus_space_tag_t sc_regt;
     bus_space_handle_t sc_regh;
     bus_addr_t sc_reg_pa;
+    bus_size_t sc_sz;
 
     pci_intr_handle_t *sc_pihp;
     pci_chipset_tag_t sc_pct;
     void *sc_ih;
     void *sc_soft_ih;
 
-    struct ieee80211com *sc_ic;
+    struct ieee80211com sc_ic;
 };
 
 void
@@ -73,6 +75,8 @@ mtk_match(device_t parent, cfdata_t match, void *aux);
 
 static void
 mtk_attach(device_t parent, device_t self, void *aux);
+
+static void	mtk_softintr(void *);
 
 // static int
 // mtk_detach(device_t self, int flags);
@@ -94,6 +98,11 @@ mtk_match(device_t parent, cfdata_t match, void *aux)
     return 0;
 }
 
+static void
+mtk_softintr(void *arg){
+    return;
+}
+
 // interrupt handler
 static int
 mtk_intr(void *arg)
@@ -101,9 +110,16 @@ mtk_intr(void *arg)
 	struct mtk_softc *sc = arg;
 
 	/* Disable interrupts. */
-	// 0xd4000 + 0x204
+	/* 0xd4000 + 0x204 */
+    /* I'm pretty sure 0x204 is the offset*/
+    /*
+    void
+     bus_space_write_4(bus_space_tag_t space, bus_space_handle_t handle,
+         bus_size_t offset, uint32_t value);
+    */
+    bus_space_write_4(sc->sc_regt, sc->sc_regh, OFFSET_DIS, 0);
 
-	softint_schedule(sc->sc_soft_ih);
+    softint_schedule(sc->sc_soft_ih);
 	return 1;
 }
 
@@ -140,7 +156,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
     printf("mtk: hey hey hey...\n");
     struct mtk_softc *sc = device_private(self);
 	struct pci_attach_args *pa = aux;
-    struct ieee80211com *ic = &sc->sc_ic;
+    /*struct ieee80211com *ic = &sc->sc_ic;*/
     pcireg_t reg;
     pci_chipset_tag_t pc = pa->pa_pc;
     pcitag_t tag = pa->pa_tag;
@@ -182,7 +198,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
 
     // map BAR0 (physical address) to kernel virtual addr
     if (pci_mapreg_map(pa, PCI_BAR0, PCI_MAPREG_TYPE_MEM, 0, 
-            &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, 0) != 0 ) {
+            &sc->sc_regt, &sc->sc_regh, &sc->sc_reg_pa, &sc->sc_sz) != 0 ) {
             aprint_error_dev(sc->sc_dev, "mtk: can't map the BAR\n");
             return;
     }
@@ -201,7 +217,7 @@ mtk_attach(device_t parent, device_t self, void *aux){
     error = pci_intr_alloc(pa, &sc->sc_pihp, NULL, 0);
 	if (error) {
 		aprint_error_dev(self, "can't allocate interrupt\n");
-		return;
+		goto failsi;
 	}
     
     intrstr = pci_intr_string(sc->sc_pct, sc->sc_pihp[0], intrbuf,
@@ -223,7 +239,7 @@ failia:	pci_intr_release(sc->sc_pct, sc->sc_pihp, 1);
 	sc->sc_pihp = NULL;
 failsi:	softint_disestablish(sc->sc_soft_ih);
 	sc->sc_soft_ih = NULL;
-unmap:	bus_space_unmap(sc->sc_st, sc->sc_sh, sc->sc_sz);
+unmap:	bus_space_unmap(sc->sc_regt, sc->sc_regh, sc->sc_sz);
 }
 
 
